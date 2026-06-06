@@ -36,9 +36,9 @@ Welcome to Github Sentra Repository
 
 ---
 
-## ── FRONT PAGE · WHO I AM
+## ── FRONT PAGE · ABOUT ME
 
-I am **dr codieverse**, an hospital CEO, physician-founder building **Sentra Artificial Intelligence**: a healthcare AI ecosystem focused on clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure.
+I am **codieverse**, hospital CEO, physician-founder building **Sentra Artificial Intelligence**: a healthcare AI ecosystem focused on clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure.
 
 My work sits at the intersection of clinical judgment, AI infrastructure, and real-world hospital operations.
 
