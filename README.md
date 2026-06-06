@@ -13,7 +13,7 @@
 </td>
 <td width="64%" valign="middle">
 
-# I'm codieverse
+# I'm codieverse welcome to Github Sentra Repository
 
 ### Healthcare Artificial Intelligence · Clinical Systems · Indonesian Medical Infrastructure
 
