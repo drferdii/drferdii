@@ -6,238 +6,317 @@
 <title>Sentra Assist — Technology Overview</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Marcellus&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Open+Sans:ital,opsz,wght@0,6..30,300;0,6..30,400;0,6..30,500;1,6..30,300;1,6..30,400&display=swap" rel="stylesheet">
 <style>
-/* ============================================
-   B2R DESIGN TOKENS — verified palette
-   Cream: #F5F1E6 | Sage: #BEC1AE | Ink: #1E1E1A
-   ============================================ */
+
+/* ======================================================
+   B2R DESIGN TOKENS v2.0 — CONFIRMED STRICT SYSTEM
+   Source: b2r.ca (Awwwards Honorable Mention)
+   Palette confirmed: #F5F1E6 cream | #BEC1AE sage
+   Typography: Raleway (heading) + Open Sans (body)
+   Font source: b2r.ca Salient theme CSS (skin-material.css)
+   ====================================================== */
 :root {
-  /* Core palette */
-  --cream:       #F5F1E6;
-  --cream-dark:  #EBE6D4;
-  --cream-deep:  #DED8C2;
-  --sage-light:  #D4D6CB;
-  --sage:        #BEC1AE;
-  --sage-mid:    #898C7A;
-  --sage-dark:   #6E7160;
-  --ink-light:   #6B6B60;
-  --ink-mid:     #3A3A34;
-  --ink:         #1E1E1A;
 
-  /* Typography */
-  --font-heading: 'Marcellus', 'Georgia', serif;
-  --font-body:    'DM Sans', 'system-ui', sans-serif;
+  /* ====== COLOR: PRIMITIVE ====== */
+  --color-cream-50:   #FDFCF8;
+  --color-cream-100:  #F9F7F1;
+  --color-cream-200:  #F5F1E6;  /* PRIMARY BG — CONFIRMED */
+  --color-cream-300:  #EBE6D4;
+  --color-cream-400:  #DED8C2;
+  --color-cream-500:  #CECAAF;
 
-  /* Scale */
-  --text-xs:   0.75rem;
-  --text-sm:   0.875rem;
-  --text-base: 1rem;
-  --text-lg:   1.125rem;
-  --text-xl:   1.25rem;
-  --text-2xl:  1.5rem;
-  --text-3xl:  1.875rem;
-  --text-4xl:  2.25rem;
-  --text-5xl:  3rem;
-  --text-6xl:  3.75rem;
+  --color-sage-100:   #E7E8E1;
+  --color-sage-200:   #D4D6CB;
+  --color-sage-300:   #BEC1AE;  /* BRAND ACCENT — CONFIRMED */
+  --color-sage-400:   #A5A896;
+  --color-sage-500:   #898C7A;
+  --color-sage-600:   #6E7160;
+  --color-sage-700:   #555847;
 
-  /* Spacing */
-  --space-1: 0.25rem;  --space-2: 0.5rem;
-  --space-3: 0.75rem;  --space-4: 1rem;
-  --space-6: 1.5rem;   --space-8: 2rem;
-  --space-12: 3rem;    --space-16: 4rem;
-  --space-20: 5rem;    --space-24: 6rem;
-  --space-32: 8rem;
+  --color-ink-100:    #D8D8D2;
+  --color-ink-200:    #B5B5AC;
+  --color-ink-300:    #8E8E84;
+  --color-ink-400:    #6B6B60;
+  --color-ink-600:    #3A3A34;
+  --color-ink-900:    #1E1E1A;  /* PRIMARY TEXT */
 
-  /* Border */
-  --radius-sm: 2px;
-  --radius:    4px;
-  --border-color: var(--sage-light);
+  /* ====== COLOR: SEMANTIC ====== */
+  --bg-default:       var(--color-cream-200);
+  --bg-subtle:        var(--color-cream-300);
+  --bg-muted:         var(--color-cream-400);
+  --border-default:   var(--color-sage-200);
+  --border-strong:    var(--color-sage-300);
+  --text-primary:     var(--color-ink-900);
+  --text-secondary:   var(--color-ink-400);
+  --text-tertiary:    var(--color-ink-200);
+  --accent:           var(--color-sage-300);
+  --accent-text:      var(--color-sage-600);
+
+  /* ====== TYPOGRAPHY ====== */
+  --font-heading:     'Raleway', 'Helvetica Neue', Arial, sans-serif;
+  --font-body:        'Open Sans', Helvetica, Arial, sans-serif;
+
+  --fw-light:         300;
+  --fw-regular:       400;
+  --fw-medium:        500;
+  --fw-semibold:      600;
+
+  --text-xs:          0.6875rem;   /* 11px */
+  --text-sm:          0.8125rem;   /* 13px */
+  --text-base:        1rem;        /* 16px */
+  --text-md:          1.125rem;    /* 18px */
+  --text-lg:          1.25rem;     /* 20px */
+  --text-xl:          1.5rem;      /* 24px */
+  --text-2xl:         1.875rem;    /* 30px */
+  --text-3xl:         2.25rem;     /* 36px */
+  --text-4xl:         3rem;        /* 48px */
+  --text-5xl:         4rem;        /* 64px */
+  --text-6xl:         5.5rem;      /* 88px */
+
+  --lh-tight:         1.1;
+  --lh-snug:          1.3;
+  --lh-normal:        1.6;
+  --lh-relaxed:       1.8;
+
+  --ls-tight:         -0.02em;
+  --ls-normal:         0em;
+  --ls-wide:           0.05em;
+  --ls-wider:          0.12em;
+  --ls-widest:         0.22em;
+
+  /* ====== SPACING ====== */
+  --space-1:   0.25rem;
+  --space-2:   0.5rem;
+  --space-3:   0.75rem;
+  --space-4:   1rem;
+  --space-5:   1.25rem;
+  --space-6:   1.5rem;
+  --space-8:   2rem;
+  --space-10:  2.5rem;
+  --space-12:  3rem;
+  --space-16:  4rem;
+  --space-20:  5rem;
+  --space-24:  6rem;
+  --space-32:  8rem;
+  --space-40:  10rem;
+
+  /* ====== LAYOUT ====== */
+  --container-max:    1120px;
+  --container-pad:    var(--space-10);
+  --section-y:        var(--space-32);
+  --nav-h:            80px;
+
+  /* ====== BORDER ====== */
+  --radius-none:  0;
+  --radius-sm:    2px;
+  --radius:       4px;
 }
 
-/* ============================================
-   RESET & BASE
-   ============================================ */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { scroll-behavior: smooth; }
-
+/* ======================================================
+   RESET
+   ====================================================== */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 body {
-  background-color: var(--cream);
-  color: var(--ink);
+  background-color: var(--bg-default);
+  color: var(--text-primary);
   font-family: var(--font-body);
   font-size: var(--text-base);
-  font-weight: 300;
-  line-height: 1.7;
-  -webkit-font-smoothing: antialiased;
+  font-weight: var(--fw-light);
+  line-height: var(--lh-relaxed);
 }
-
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
-  color: var(--ink);
-  line-height: 1.25;
-  font-weight: 400;
+  font-weight: var(--fw-light);
+  color: var(--text-primary);
+  line-height: var(--lh-tight);
+  letter-spacing: var(--ls-tight);
 }
-
-a { color: var(--sage-dark); text-decoration: none; }
-a:hover { color: var(--ink); }
-
+p { line-height: var(--lh-relaxed); }
+a { color: var(--accent-text); text-decoration: none; transition: color 0.2s; }
+a:hover { color: var(--text-primary); }
 img { max-width: 100%; display: block; }
 
 .container {
   width: 100%;
-  max-width: 1120px;
+  max-width: var(--container-max);
   margin: 0 auto;
-  padding: 0 var(--space-8);
+  padding: 0 var(--container-pad);
 }
 
-/* ============================================
+
+/* ======================================================
+   UTILITY
+   ====================================================== */
+.label {
+  display: block;
+  font-family: var(--font-heading);
+  font-size: var(--text-xs);
+  font-weight: var(--fw-medium);
+  letter-spacing: var(--ls-widest);
+  text-transform: uppercase;
+  color: var(--accent-text);
+  margin-bottom: var(--space-5);
+}
+
+
+/* ======================================================
    NAV
-   ============================================ */
+   ====================================================== */
 .nav {
   position: fixed;
   top: 0; left: 0; right: 0;
   z-index: 100;
-  background-color: var(--cream);
+  height: var(--nav-h);
+  background-color: var(--bg-default);
   border-bottom: 1px solid transparent;
-  transition: border-color 0.3s, box-shadow 0.3s;
+  transition: border-color 0.4s, background-color 0.4s;
+  display: flex;
+  align-items: center;
 }
 .nav.scrolled {
-  border-color: var(--border-color);
-  box-shadow: 0 1px 12px rgba(30,30,26,0.06);
+  border-color: var(--border-default);
 }
 .nav__inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 64px;
 }
 .nav__brand {
   font-family: var(--font-heading);
-  font-size: var(--text-xl);
-  color: var(--ink);
-  letter-spacing: 0.04em;
+  font-size: var(--text-sm);
+  font-weight: var(--fw-medium);
+  letter-spacing: var(--ls-widest);
+  text-transform: uppercase;
+  color: var(--text-primary);
 }
-.nav__brand span {
-  color: var(--sage-dark);
-  font-style: italic;
+.nav__brand em {
+  font-style: normal;
+  color: var(--accent-text);
 }
 .nav__tag {
+  font-family: var(--font-body);
   font-size: var(--text-xs);
-  font-weight: 400;
-  color: var(--ink-light);
-  letter-spacing: 0.12em;
+  font-weight: var(--fw-regular);
+  letter-spacing: var(--ls-wider);
   text-transform: uppercase;
-  border: 1px solid var(--border-color);
-  padding: var(--space-1) var(--space-3);
-  border-radius: var(--radius-sm);
+  color: var(--text-secondary);
 }
 
-/* ============================================
+
+/* ======================================================
    HERO
-   ============================================ */
+   ====================================================== */
 .hero {
-  padding-top: calc(64px + var(--space-24));
-  padding-bottom: var(--space-24);
-  border-bottom: 1px solid var(--border-color);
+  padding-top: calc(var(--nav-h) + var(--space-40));
+  padding-bottom: var(--space-40);
+  border-bottom: 1px solid var(--border-default);
 }
 .hero__eyebrow {
+  font-family: var(--font-heading);
   font-size: var(--text-xs);
-  font-weight: 500;
-  letter-spacing: 0.18em;
+  font-weight: var(--fw-medium);
+  letter-spacing: var(--ls-widest);
   text-transform: uppercase;
-  color: var(--sage-dark);
-  margin-bottom: var(--space-6);
+  color: var(--accent-text);
+  display: block;
+  margin-bottom: var(--space-8);
 }
 .hero__title {
-  font-size: clamp(var(--text-4xl), 6vw, var(--text-6xl));
   font-family: var(--font-heading);
-  color: var(--ink);
-  font-weight: 400;
-  max-width: 800px;
-  line-height: 1.15;
-  margin-bottom: var(--space-6);
+  font-size: clamp(var(--text-4xl), 7vw, var(--text-6xl));
+  font-weight: var(--fw-light);
+  color: var(--text-primary);
+  letter-spacing: var(--ls-tight);
+  line-height: var(--lh-tight);
+  max-width: 880px;
+  margin-bottom: var(--space-8);
 }
 .hero__title em {
   font-style: italic;
-  color: var(--sage-mid);
+  color: var(--color-sage-500);
 }
 .hero__sub {
-  font-size: var(--text-lg);
-  font-weight: 300;
-  color: var(--ink-light);
-  max-width: 560px;
-  line-height: 1.7;
-  margin-bottom: var(--space-12);
+  font-family: var(--font-body);
+  font-size: var(--text-md);
+  font-weight: var(--fw-light);
+  color: var(--text-secondary);
+  max-width: 520px;
+  line-height: var(--lh-relaxed);
+  margin-bottom: var(--space-16);
 }
-.hero__meta {
+.hero__stats {
   display: flex;
-  align-items: center;
-  gap: var(--space-8);
+  gap: var(--space-16);
   flex-wrap: wrap;
-}
-.hero__stat {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-1);
+  padding-top: var(--space-10);
+  border-top: 1px solid var(--border-default);
 }
 .hero__stat-num {
   font-family: var(--font-heading);
   font-size: var(--text-3xl);
-  color: var(--ink);
+  font-weight: var(--fw-light);
+  color: var(--text-primary);
+  letter-spacing: var(--ls-tight);
   line-height: 1;
+  margin-bottom: var(--space-1);
 }
 .hero__stat-label {
+  font-family: var(--font-body);
   font-size: var(--text-xs);
-  color: var(--ink-light);
-  letter-spacing: 0.1em;
+  font-weight: var(--fw-regular);
+  letter-spacing: var(--ls-wider);
   text-transform: uppercase;
-}
-.hero__divider {
-  width: 1px;
-  height: 48px;
-  background: var(--border-color);
+  color: var(--text-secondary);
 }
 
-/* ============================================
-   SECTION COMMON
-   ============================================ */
+
+/* ======================================================
+   SECTION BASE
+   ====================================================== */
 .section {
-  padding: var(--space-24) 0;
-  border-bottom: 1px solid var(--border-color);
+  padding: var(--section-y) 0;
+  border-bottom: 1px solid var(--border-default);
 }
 .section--alt {
-  background-color: var(--cream-dark);
+  background-color: var(--bg-subtle);
 }
-.eyebrow {
-  font-size: var(--text-xs);
-  font-weight: 500;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--sage-dark);
-  margin-bottom: var(--space-4);
+.section__header {
+  margin-bottom: var(--space-16);
 }
 .section__title {
   font-family: var(--font-heading);
   font-size: clamp(var(--text-3xl), 4vw, var(--text-5xl));
-  color: var(--ink);
-  font-weight: 400;
-  max-width: 640px;
-  line-height: 1.2;
-  margin-bottom: var(--space-6);
+  font-weight: var(--fw-light);
+  color: var(--text-primary);
+  letter-spacing: var(--ls-tight);
+  line-height: var(--lh-snug);
+  max-width: 600px;
+  margin-bottom: var(--space-5);
 }
 .section__lead {
-  font-size: var(--text-lg);
-  font-weight: 300;
-  color: var(--ink-light);
-  max-width: 560px;
-  line-height: 1.8;
-  margin-bottom: var(--space-12);
+  font-family: var(--font-body);
+  font-size: var(--text-md);
+  font-weight: var(--fw-light);
+  color: var(--text-secondary);
+  max-width: 480px;
+  line-height: var(--lh-relaxed);
 }
 
-/* ============================================
-   INTRO / THESIS
-   ============================================ */
+
+/* ======================================================
+   INTRO GRID
+   ====================================================== */
 .intro-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -245,321 +324,342 @@ img { max-width: 100%; display: block; }
   align-items: start;
 }
 .intro__body {
+  font-family: var(--font-body);
   font-size: var(--text-base);
-  font-weight: 300;
-  color: var(--ink-mid);
-  line-height: 1.9;
+  font-weight: var(--fw-light);
+  color: var(--color-ink-600);
+  line-height: var(--lh-relaxed);
 }
-.intro__body p + p { margin-top: var(--space-4); }
+.intro__body p + p {
+  margin-top: var(--space-4);
+}
 .intro__pullquote {
-  border-left: 2px solid var(--sage);
+  border-left: 2px solid var(--accent);
   padding-left: var(--space-6);
-  margin-top: var(--space-8);
+  margin-top: var(--space-16);
 }
 .intro__pullquote p {
   font-family: var(--font-heading);
-  font-size: var(--text-xl);
-  color: var(--ink);
-  line-height: 1.5;
+  font-size: var(--text-lg);
+  font-weight: var(--fw-light);
   font-style: italic;
+  color: var(--text-primary);
+  line-height: var(--lh-snug);
+  letter-spacing: var(--ls-tight);
+  margin-bottom: var(--space-4);
 }
 .intro__pullquote cite {
-  display: block;
-  margin-top: var(--space-3);
-  font-size: var(--text-sm);
-  color: var(--ink-light);
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: var(--fw-regular);
   font-style: normal;
-  letter-spacing: 0.06em;
+  letter-spacing: var(--ls-wider);
+  text-transform: uppercase;
+  color: var(--text-secondary);
 }
 
-/* ============================================
-   PROBLEM CARDS
-   ============================================ */
-.cards-grid {
+
+/* ======================================================
+   PROBLEM LIST
+   ====================================================== */
+.problem-list {}
+.problem-item {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: var(--space-6);
+  grid-template-columns: 72px 1fr;
+  gap: var(--space-8);
+  padding: var(--space-10) 0;
+  border-top: 1px solid var(--border-default);
+  align-items: start;
 }
-.card {
-  background: var(--cream);
-  border: 1px solid var(--border-color);
-  padding: var(--space-8);
-  border-radius: var(--radius);
-  transition: border-color 0.25s;
+.problem-item:last-child {
+  border-bottom: 1px solid var(--border-default);
 }
-.section--alt .card { background: var(--cream-dark); }
-.card:hover { border-color: var(--sage-mid); }
-.card__icon {
-  font-size: var(--text-2xl);
-  margin-bottom: var(--space-4);
-  opacity: 0.75;
-}
-.card__num {
+.problem-item__num {
   font-family: var(--font-heading);
-  font-size: var(--text-4xl);
-  color: var(--sage-mid);
-  line-height: 1;
-  margin-bottom: var(--space-3);
+  font-size: var(--text-xs);
+  font-weight: var(--fw-regular);
+  letter-spacing: var(--ls-wider);
+  color: var(--color-sage-500);
+  padding-top: var(--space-1);
 }
-.card__title {
+.problem-item__title {
   font-family: var(--font-heading);
   font-size: var(--text-xl);
-  color: var(--ink);
-  font-weight: 400;
+  font-weight: var(--fw-regular);
+  color: var(--text-primary);
+  letter-spacing: var(--ls-tight);
   margin-bottom: var(--space-3);
 }
-.card__body {
+.problem-item__body {
+  font-family: var(--font-body);
   font-size: var(--text-sm);
-  color: var(--ink-light);
-  font-weight: 300;
-  line-height: 1.8;
+  font-weight: var(--fw-light);
+  color: var(--text-secondary);
+  line-height: var(--lh-relaxed);
 }
 
-/* ============================================
-   FEATURES TABLE / LAYER
-   ============================================ */
-.layers-list {
-  display: flex;
-  flex-direction: column;
-  gap: 0;
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius);
-  overflow: hidden;
-}
+
+/* ======================================================
+   SOLUTION LAYERS
+   ====================================================== */
+.layers-list {}
 .layer-item {
   display: grid;
-  grid-template-columns: 280px 1fr;
-  border-bottom: 1px solid var(--border-color);
+  grid-template-columns: 260px 1fr;
+  border-top: 1px solid var(--border-default);
   transition: background-color 0.2s;
 }
-.layer-item:last-child { border-bottom: none; }
-.layer-item:hover { background-color: var(--cream-dark); }
-.layer-item__label {
-  padding: var(--space-6) var(--space-8);
-  border-right: 1px solid var(--border-color);
+.layer-item:last-child {
+  border-bottom: 1px solid var(--border-default);
+}
+.layer-item:hover {
+  background-color: var(--bg-muted);
+}
+.layer-item__left {
+  padding: var(--space-8) var(--space-8) var(--space-8) 0;
+  border-right: 1px solid var(--border-default);
   display: flex;
+  gap: var(--space-5);
   align-items: flex-start;
-  gap: var(--space-4);
 }
 .layer-item__num {
   font-family: var(--font-heading);
-  font-size: var(--text-sm);
-  color: var(--sage-mid);
-  padding-top: 2px;
+  font-size: var(--text-xs);
+  font-weight: var(--fw-regular);
+  letter-spacing: var(--ls-wider);
+  color: var(--color-sage-500);
+  padding-top: var(--space-1);
+  min-width: 20px;
 }
 .layer-item__name {
   font-family: var(--font-heading);
-  font-size: var(--text-lg);
-  color: var(--ink);
-  font-weight: 400;
+  font-size: var(--text-md);
+  font-weight: var(--fw-regular);
+  color: var(--text-primary);
+  letter-spacing: var(--ls-tight);
+  line-height: var(--lh-snug);
 }
-.layer-item__content {
-  padding: var(--space-6) var(--space-8);
+.layer-item__right {
+  padding: var(--space-8) 0 var(--space-8) var(--space-8);
 }
 .layer-item__desc {
+  font-family: var(--font-body);
   font-size: var(--text-sm);
-  color: var(--ink-light);
-  font-weight: 300;
-  line-height: 1.8;
-  margin-bottom: var(--space-3);
+  font-weight: var(--fw-light);
+  color: var(--text-secondary);
+  line-height: var(--lh-relaxed);
+  margin-bottom: var(--space-4);
 }
-.layer-item__tags {
+.tags {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-2);
 }
 .tag {
+  font-family: var(--font-body);
   font-size: var(--text-xs);
-  font-weight: 400;
-  color: var(--sage-dark);
-  background: var(--sage-light);
-  padding: 2px var(--space-3);
+  font-weight: var(--fw-regular);
+  letter-spacing: var(--ls-wide);
+  color: var(--accent-text);
+  background-color: var(--color-sage-100);
+  border: 1px solid var(--border-default);
+  padding: var(--space-1) var(--space-3);
   border-radius: var(--radius-sm);
-  letter-spacing: 0.04em;
 }
 
-/* ============================================
-   IMPACT / METRICS ROW
-   ============================================ */
-.metrics-row {
+
+/* ======================================================
+   IMPACT METRICS
+   ====================================================== */
+.metrics-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: var(--space-1);
-  margin-top: var(--space-12);
-}
-.metric-block {
-  padding: var(--space-8);
-  background: var(--cream-dark);
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius);
-  text-align: center;
-}
-.metric-block__num {
-  font-family: var(--font-heading);
-  font-size: clamp(var(--text-3xl), 3.5vw, var(--text-5xl));
-  color: var(--ink);
-  line-height: 1;
-  margin-bottom: var(--space-2);
-}
-.metric-block__label {
-  font-size: var(--text-xs);
-  color: var(--ink-light);
-  font-weight: 400;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  line-height: 1.5;
-}
-
-/* ============================================
-   ARCH / TECH STACK
-   ============================================ */
-.stack-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: var(--space-6);
-}
-.stack-card {
-  border: 1px solid var(--border-color);
+  gap: 1px;
+  background-color: var(--border-default);
+  border: 1px solid var(--border-default);
   border-radius: var(--radius);
   overflow: hidden;
 }
-.stack-card__header {
-  background: var(--cream-dark);
-  padding: var(--space-4) var(--space-6);
-  border-bottom: 1px solid var(--border-color);
-  display: flex;
-  align-items: center;
-  gap: var(--space-3);
+.metric-cell {
+  background-color: var(--bg-subtle);
+  padding: var(--space-10) var(--space-8);
+  text-align: center;
 }
-.stack-card__dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: var(--sage);
-}
-.stack-card__title {
+.metric-cell__num {
   font-family: var(--font-heading);
-  font-size: var(--text-base);
-  color: var(--ink);
-  font-weight: 400;
+  font-size: clamp(var(--text-3xl), 3.5vw, var(--text-5xl));
+  font-weight: var(--fw-light);
+  color: var(--text-primary);
+  letter-spacing: var(--ls-tight);
+  line-height: 1;
+  margin-bottom: var(--space-3);
 }
-.stack-card__body {
-  padding: var(--space-6);
+.metric-cell__label {
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: var(--fw-regular);
+  letter-spacing: var(--ls-wider);
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  line-height: var(--lh-snug);
 }
-.stack-item {
+
+
+/* ======================================================
+   TECH STACK
+   ====================================================== */
+.stack-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background-color: var(--border-default);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.stack-col {
+  background-color: var(--bg-default);
+  padding: var(--space-8);
+}
+.stack-col__title {
+  font-family: var(--font-heading);
+  font-size: var(--text-xs);
+  font-weight: var(--fw-medium);
+  letter-spacing: var(--ls-widest);
+  text-transform: uppercase;
+  color: var(--accent-text);
+  padding-bottom: var(--space-4);
+  margin-bottom: var(--space-5);
+  border-bottom: 1px solid var(--border-default);
+}
+.stack-row {
   display: flex;
-  align-items: baseline;
   justify-content: space-between;
+  align-items: baseline;
   padding: var(--space-3) 0;
-  border-bottom: 1px solid var(--cream-deep);
+  border-bottom: 1px solid var(--color-cream-300);
+  gap: var(--space-4);
   font-size: var(--text-sm);
 }
-.stack-item:last-child { border-bottom: none; }
-.stack-item__name { color: var(--ink-mid); font-weight: 400; }
-.stack-item__val {
-  color: var(--ink-light);
-  font-weight: 300;
+.stack-row:last-child { border-bottom: none; }
+.stack-row__key {
+  font-family: var(--font-body);
+  font-weight: var(--fw-regular);
+  color: var(--text-primary);
+}
+.stack-row__val {
+  font-family: var(--font-body);
+  font-weight: var(--fw-light);
+  color: var(--text-secondary);
   font-size: var(--text-xs);
-  letter-spacing: 0.04em;
+  letter-spacing: var(--ls-wide);
+  text-align: right;
 }
 
-/* ============================================
+
+/* ======================================================
    QUOTES
-   ============================================ */
-.quotes-grid {
+   ====================================================== */
+.quotes-list {}
+.quote-item {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: var(--space-6);
+  grid-template-columns: 200px 1fr;
+  gap: var(--space-8);
+  padding: var(--space-10) 0;
+  border-top: 1px solid var(--border-default);
+  align-items: start;
 }
-.pitch-quote {
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius);
-  padding: var(--space-8);
-  background: var(--cream);
-  transition: border-color 0.25s;
+.quote-item:last-child {
+  border-bottom: 1px solid var(--border-default);
 }
-.section--alt .pitch-quote { background: var(--cream-dark); }
-.pitch-quote:hover { border-color: var(--sage-mid); }
-.pitch-quote__tag {
-  display: inline-block;
+.quote-item__tag {
+  font-family: var(--font-heading);
   font-size: var(--text-xs);
-  font-weight: 500;
-  letter-spacing: 0.12em;
+  font-weight: var(--fw-medium);
+  letter-spacing: var(--ls-wider);
   text-transform: uppercase;
-  color: var(--sage-dark);
-  background: var(--sage-light);
-  padding: 2px var(--space-3);
-  border-radius: var(--radius-sm);
-  margin-bottom: var(--space-4);
+  color: var(--accent-text);
+  padding-top: 4px;
 }
-.pitch-quote__text {
+.quote-item__text {
   font-family: var(--font-heading);
   font-size: var(--text-lg);
-  color: var(--ink);
-  font-weight: 400;
-  line-height: 1.6;
+  font-weight: var(--fw-light);
   font-style: italic;
+  color: var(--text-primary);
+  letter-spacing: var(--ls-tight);
+  line-height: var(--lh-snug);
 }
 
-/* ============================================
+
+/* ======================================================
    KEY PHRASES
-   ============================================ */
+   ====================================================== */
 .phrases-section {
-  padding: var(--space-16) 0;
-  border-bottom: 1px solid var(--border-color);
-  background: var(--cream-dark);
+  background-color: var(--bg-subtle);
+  padding: var(--space-20) 0;
+  border-bottom: 1px solid var(--border-default);
 }
-.phrases-grid {
+.phrases-wrap {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-3);
   margin-top: var(--space-6);
 }
 .phrase-pill {
+  font-family: var(--font-body);
   font-size: var(--text-sm);
-  font-weight: 300;
-  color: var(--ink-mid);
-  border: 1px solid var(--border-color);
+  font-weight: var(--fw-light);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-default);
+  background-color: var(--bg-default);
   padding: var(--space-2) var(--space-5);
   border-radius: 999px;
-  background: var(--cream);
   transition: border-color 0.2s, color 0.2s;
+  cursor: default;
 }
 .phrase-pill:hover {
-  border-color: var(--sage-mid);
-  color: var(--ink);
+  border-color: var(--color-sage-500);
+  color: var(--text-primary);
 }
 
-/* ============================================
+
+/* ======================================================
    CONCLUSION
-   ============================================ */
+   ====================================================== */
 .conclusion {
-  padding: var(--space-32) 0;
+  padding: var(--section-y) 0;
   text-align: center;
+  background-color: var(--bg-default);
+  border-bottom: 1px solid var(--border-default);
 }
 .conclusion__quote {
   font-family: var(--font-heading);
   font-size: clamp(var(--text-xl), 3vw, var(--text-3xl));
-  color: var(--ink);
-  font-weight: 400;
+  font-weight: var(--fw-light);
   font-style: italic;
-  line-height: 1.6;
+  color: var(--text-primary);
+  letter-spacing: var(--ls-tight);
+  line-height: var(--lh-snug);
   max-width: 760px;
   margin: 0 auto var(--space-6);
   border: none;
 }
-.conclusion__source {
+.conclusion__meta {
+  font-family: var(--font-body);
   font-size: var(--text-xs);
-  color: var(--ink-light);
-  letter-spacing: 0.12em;
+  font-weight: var(--fw-regular);
+  letter-spacing: var(--ls-wider);
   text-transform: uppercase;
+  color: var(--text-secondary);
 }
 
-/* ============================================
-   FOOTER
-   ============================================ */
+
+/* ======================================================
+   FOOTER — LIGHT (B2R aesthetic: cream, no dark footer)
+   ====================================================== */
 .footer {
-  background: var(--ink);
+  background-color: var(--bg-subtle);
+  border-top: 1px solid var(--border-default);
   padding: var(--space-16) 0;
 }
 .footer__inner {
@@ -571,113 +671,148 @@ img { max-width: 100%; display: block; }
 }
 .footer__brand {
   font-family: var(--font-heading);
-  font-size: var(--text-2xl);
-  color: var(--cream);
+  font-size: var(--text-xl);
+  font-weight: var(--fw-light);
+  letter-spacing: var(--ls-wide);
+  color: var(--text-primary);
   margin-bottom: var(--space-2);
 }
 .footer__tagline {
-  font-size: var(--text-sm);
-  color: var(--sage);
-  font-weight: 300;
-  margin-bottom: var(--space-1);
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: var(--fw-light);
+  letter-spacing: var(--ls-wider);
+  text-transform: uppercase;
+  color: var(--text-secondary);
 }
 .footer__credits {
+  font-family: var(--font-body);
   font-size: var(--text-xs);
-  color: var(--sage-dark);
-  letter-spacing: 0.06em;
+  font-weight: var(--fw-light);
+  color: var(--color-sage-400);
+  margin-top: var(--space-2);
 }
-.footer__meta-line {
+.footer__meta p {
+  font-family: var(--font-body);
   font-size: var(--text-xs);
-  color: var(--sage-dark);
-  letter-spacing: 0.06em;
-  margin-bottom: var(--space-1);
+  font-weight: var(--fw-light);
+  color: var(--text-secondary);
+  letter-spacing: var(--ls-wide);
+  line-height: var(--lh-relaxed);
 }
 
-/* ============================================
+
+/* ======================================================
    SCROLL REVEAL
-   ============================================ */
+   ====================================================== */
 .reveal {
   opacity: 0;
-  transform: translateY(24px);
+  transform: translateY(18px);
   transition: opacity 0.7s ease, transform 0.7s ease;
 }
 .reveal.visible {
   opacity: 1;
-  transform: translateY(0);
+  transform: none;
 }
 
-/* ============================================
+
+/* ======================================================
    RESPONSIVE
-   ============================================ */
+   ====================================================== */
 @media (max-width: 900px) {
-  .intro-grid { grid-template-columns: 1fr; }
-  .cards-grid { grid-template-columns: 1fr 1fr; }
-  .metrics-row { grid-template-columns: 1fr 1fr; gap: var(--space-3); }
-  .stack-grid { grid-template-columns: 1fr; }
-  .layer-item { grid-template-columns: 1fr; }
-  .layer-item__label { border-right: none; border-bottom: 1px solid var(--border-color); }
-  .quotes-grid { grid-template-columns: 1fr; }
+  :root {
+    --container-pad: var(--space-6);
+    --section-y:     var(--space-20);
+  }
+  .intro-grid               { grid-template-columns: 1fr; }
+  .intro__pullquote         { margin-top: var(--space-8); }
+  .layer-item               { grid-template-columns: 1fr; }
+  .layer-item__left         { border-right: none; border-bottom: 1px solid var(--border-default); padding: var(--space-6) 0 var(--space-5); }
+  .layer-item__right        { padding: var(--space-5) 0 var(--space-6); }
+  .metrics-grid             { grid-template-columns: 1fr 1fr; }
+  .stack-grid               { grid-template-columns: 1fr; }
+  .quote-item               { grid-template-columns: 1fr; gap: var(--space-4); }
+  .problem-item             { grid-template-columns: 56px 1fr; }
+  .footer__inner            { flex-direction: column; gap: var(--space-8); }
 }
+
 @media (max-width: 560px) {
-  .container { padding: 0 var(--space-4); }
-  .cards-grid { grid-template-columns: 1fr; }
-  .metrics-row { grid-template-columns: 1fr 1fr; }
-  .hero__meta { gap: var(--space-4); }
+  :root {
+    --container-pad: var(--space-4);
+    --section-y:     var(--space-16);
+  }
+  .hero { padding-top: calc(var(--nav-h) + var(--space-24)); padding-bottom: var(--space-24); }
+  .hero__stats { gap: var(--space-8); }
+  .metrics-grid { grid-template-columns: 1fr 1fr; }
+  .problem-item { grid-template-columns: 40px 1fr; gap: var(--space-5); }
 }
 </style>
 </head>
 <body>
 
-<!-- NAV -->
-<nav class="nav" id="nav">
+
+<!-- ====================================================
+     NAV
+     ==================================================== -->
+<nav class="nav" id="main-nav">
   <div class="container">
     <div class="nav__inner">
-      <div class="nav__brand">Sentra <span>Assist</span></div>
+      <div class="nav__brand">Sentra <em>Assist</em></div>
       <div class="nav__tag">Technology Overview &middot; 2026</div>
     </div>
   </div>
 </nav>
 
-<!-- HERO -->
+
+<!-- ====================================================
+     HERO
+     ==================================================== -->
 <section class="hero">
   <div class="container">
-    <p class="hero__eyebrow">Sentra AI &mdash; Clinical Intelligence Layer</p>
-    <h1 class="hero__title">Assist where it matters.<br><em>At the point of care.</em></h1>
-    <p class="hero__sub">Sentra Assist adalah lapisan kecerdasan klinis yang dirancang untuk layanan primer Indonesia &mdash; assistive, auditable, dan workflow-native.</p>
-    <div class="hero__meta">
+    <span class="hero__eyebrow">Sentra AI &mdash; Clinical Intelligence Layer</span>
+    <h1 class="hero__title">
+      Assist where it matters.<br>
+      <em>At the point of care.</em>
+    </h1>
+    <p class="hero__sub">
+      Lapisan kecerdasan klinis untuk layanan primer Indonesia &mdash;
+      assistive, auditable, dan workflow-native.
+    </p>
+    <div class="hero__stats">
       <div class="hero__stat">
-        <span class="hero__stat-num">220K+</span>
-        <span class="hero__stat-label">Lives at risk / month</span>
+        <div class="hero__stat-num">220K+</div>
+        <div class="hero__stat-label">Lives at risk / month</div>
       </div>
-      <div class="hero__divider"></div>
       <div class="hero__stat">
-        <span class="hero__stat-num">171K</span>
-        <span class="hero__stat-label">Puskesmas di Indonesia</span>
+        <div class="hero__stat-num">171K</div>
+        <div class="hero__stat-label">Puskesmas di Indonesia</div>
       </div>
-      <div class="hero__divider"></div>
       <div class="hero__stat">
-        <span class="hero__stat-num">&lt;60s</span>
-        <span class="hero__stat-label">Target decision assist</span>
+        <div class="hero__stat-num">&lt;60s</div>
+        <div class="hero__stat-label">Target decision assist</div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- INTRO -->
+
+<!-- ====================================================
+     THESIS
+     ==================================================== -->
 <section class="section">
   <div class="container">
     <div class="intro-grid reveal">
       <div>
-        <p class="eyebrow">Thesis</p>
-        <h2 class="section__title">Bukan pengganti dokter. Mitra klinisnya.</h2>
+        <span class="label">Thesis</span>
+        <h2 class="section__title">Bukan pengganti dokter.<br>Mitra klinisnya.</h2>
         <div class="intro__body">
-          <p>Setiap hari, dokter layanan primer Indonesia menghadapi tekanan yang luar biasa: antrian panjang, keterbatasan waktu, dan beban dokumentasi yang menyita energi klinis. Di tengah itu, keputusan yang salah bisa berakibat fatal.</p>
-          <p>Sentra Assist hadir bukan untuk menggantikan penilaian klinis &mdash; melainkan untuk memperketat presisinya. Sebuah lapisan intelijen yang diam-diam bekerja di belakang setiap konsultasi, memastikan tidak ada kasus kritis yang terlewat.</p>
+          <p>Setiap hari, dokter layanan primer Indonesia menghadapi tekanan yang luar biasa: antrian panjang, keterbatasan waktu, dan beban dokumentasi yang menyita energi klinis.</p>
+          <p>Sentra Assist hadir bukan untuk menggantikan penilaian klinis &mdash; melainkan untuk memperketat presisinya. Sebuah lapisan intelijen yang bekerja di balik setiap konsultasi, memastikan tidak ada kasus kritis yang terlewat.</p>
         </div>
       </div>
       <div>
         <div class="intro__pullquote">
-          <p>"Bukan soal AI yang lebih pintar dari dokter. Tapi AI yang memastikan dokter tidak pernah sendirian dalam keputusan yang paling berat."</p>
+          <p>&ldquo;Bukan soal AI yang lebih pintar dari dokter. Tapi AI yang memastikan dokter tidak pernah sendirian dalam keputusan yang paling berat.&rdquo;</p>
           <cite>dr Ferdi Iskandar &mdash; Founder, Sentra AI</cite>
         </div>
       </div>
@@ -685,228 +820,242 @@ img { max-width: 100%; display: block; }
   </div>
 </section>
 
-<!-- PROBLEM -->
+
+<!-- ====================================================
+     PROBLEM
+     ==================================================== -->
 <section class="section section--alt">
   <div class="container">
-    <p class="eyebrow reveal">Problem Space</p>
-    <h2 class="section__title reveal">Tiga krisis yang terjadi setiap hari</h2>
-    <div class="cards-grid reveal">
-      <div class="card">
-        <div class="card__num">01</div>
-        <h3 class="card__title">Beban Kognitif Ekstrem</h3>
-        <p class="card__body">Rata-rata dokter Puskesmas menangani 40-80 pasien per hari. Kelelahan keputusan (decision fatigue) adalah penyebab utama missed diagnosis &mdash; bukan kompetensi.</p>
+    <div class="section__header reveal">
+      <span class="label">Problem Space</span>
+      <h2 class="section__title">Tiga krisis yang terjadi setiap hari</h2>
+    </div>
+    <div class="problem-list reveal">
+
+      <div class="problem-item">
+        <span class="problem-item__num">01</span>
+        <div>
+          <h3 class="problem-item__title">Beban Kognitif Ekstrem</h3>
+          <p class="problem-item__body">Rata-rata dokter Puskesmas menangani 40&ndash;80 pasien per hari. Kelelahan keputusan (<em>decision fatigue</em>) adalah penyebab utama missed diagnosis &mdash; bukan kompetensi.</p>
+        </div>
       </div>
-      <div class="card">
-        <div class="card__num">02</div>
-        <h3 class="card__title">Dokumentasi Menyita Waktu Klinis</h3>
-        <p class="card__body">30-40% waktu konsultasi habis untuk input data ke sistem RME. Waktu yang seharusnya digunakan untuk mendengarkan pasien, bukan mengetik.</p>
+
+      <div class="problem-item">
+        <span class="problem-item__num">02</span>
+        <div>
+          <h3 class="problem-item__title">Dokumentasi Menyita Waktu Klinis</h3>
+          <p class="problem-item__body">30&ndash;40% waktu konsultasi habis untuk input data ke sistem RME. Waktu yang seharusnya digunakan untuk mendengarkan pasien, bukan mengetik.</p>
+        </div>
       </div>
-      <div class="card">
-        <div class="card__num">03</div>
-        <h3 class="card__title">Referral Terlambat</h3>
-        <p class="card__body">Kasus high-risk yang seharusnya dirujuk sering tertahan di layanan primer karena tidak ada sistem early warning yang terintegrasi ke workflow harian.</p>
+
+      <div class="problem-item">
+        <span class="problem-item__num">03</span>
+        <div>
+          <h3 class="problem-item__title">Referral Terlambat</h3>
+          <p class="problem-item__body">Kasus high-risk yang seharusnya dirujuk sering tertahan di layanan primer karena tidak ada sistem early warning yang terintegrasi ke workflow harian.</p>
+        </div>
       </div>
+
     </div>
   </div>
 </section>
 
-<!-- SOLUTION LAYERS -->
+
+<!-- ====================================================
+     SOLUTION LAYERS
+     ==================================================== -->
 <section class="section">
   <div class="container">
-    <p class="eyebrow reveal">Solusi</p>
-    <h2 class="section__title reveal">Lima lapisan kecerdasan klinis</h2>
-    <p class="section__lead reveal">Sentra Assist bekerja sebagai sistem berlapis yang saling mendukung, bukan fitur yang berdiri sendiri.</p>
+    <div class="section__header reveal">
+      <span class="label">Solusi</span>
+      <h2 class="section__title">Lima lapisan kecerdasan klinis</h2>
+      <p class="section__lead">Bekerja sebagai sistem berlapis yang saling mendukung, bukan fitur yang berdiri sendiri.</p>
+    </div>
     <div class="layers-list reveal">
+
       <div class="layer-item">
-        <div class="layer-item__label">
+        <div class="layer-item__left">
           <span class="layer-item__num">01</span>
           <span class="layer-item__name">Context-Aware Documentation</span>
         </div>
-        <div class="layer-item__content">
-          <p class="layer-item__desc">Transkripsi percakapan klinis secara real-time, auto-strukturisasi ke format SOAP, dan integrasi langsung ke sistem RME yang ada. Dokter bicara, sistem mencatat.</p>
-          <div class="layer-item__tags">
-            <span class="tag">Speech-to-Text</span>
-            <span class="tag">SOAP Auto-fill</span>
-            <span class="tag">RME Integration</span>
-          </div>
+        <div class="layer-item__right">
+          <p class="layer-item__desc">Transkripsi percakapan klinis secara real-time, auto-strukturisasi ke format SOAP, dan integrasi langsung ke RME. Dokter bicara, sistem mencatat.</p>
+          <div class="tags"><span class="tag">Speech-to-Text</span><span class="tag">SOAP Auto-fill</span><span class="tag">RME Integration</span></div>
         </div>
       </div>
+
       <div class="layer-item">
-        <div class="layer-item__label">
+        <div class="layer-item__left">
           <span class="layer-item__num">02</span>
           <span class="layer-item__name">Clinical Decision Support</span>
         </div>
-        <div class="layer-item__content">
-          <p class="layer-item__desc">Analisis symptom pattern, drug interaction check, differential diagnosis suggestion berbasis PNPK &mdash; semua disajikan sebagai saran, bukan perintah. Otoritas tetap di tangan dokter.</p>
-          <div class="layer-item__tags">
-            <span class="tag">Differential Dx</span>
-            <span class="tag">Drug Interaction</span>
-            <span class="tag">PNPK-aligned</span>
-          </div>
+        <div class="layer-item__right">
+          <p class="layer-item__desc">Analisis symptom pattern, drug interaction check, differential diagnosis berbasis PNPK &mdash; disajikan sebagai saran, bukan perintah. Otoritas tetap di tangan dokter.</p>
+          <div class="tags"><span class="tag">Differential Dx</span><span class="tag">Drug Interaction</span><span class="tag">PNPK-aligned</span></div>
         </div>
       </div>
+
       <div class="layer-item">
-        <div class="layer-item__label">
+        <div class="layer-item__left">
           <span class="layer-item__num">03</span>
           <span class="layer-item__name">Red Button Protocol</span>
         </div>
-        <div class="layer-item__content">
-          <p class="layer-item__desc">Sistem early warning yang mendeteksi kombinasi gejala high-risk dan secara proaktif memunculkan rekomendasi rujukan. Dirancang pasca insiden obstetri Februari 2025.</p>
-          <div class="layer-item__tags">
-            <span class="tag">Early Warning</span>
-            <span class="tag">Referral Trigger</span>
-            <span class="tag">Safety-First</span>
-          </div>
+        <div class="layer-item__right">
+          <p class="layer-item__desc">Early warning yang mendeteksi kombinasi gejala high-risk dan proaktif memunculkan rekomendasi rujukan. Dirancang pasca insiden obstetri Februari 2025.</p>
+          <div class="tags"><span class="tag">Early Warning</span><span class="tag">Referral Trigger</span><span class="tag">Safety-First</span></div>
         </div>
       </div>
+
       <div class="layer-item">
-        <div class="layer-item__label">
+        <div class="layer-item__left">
           <span class="layer-item__num">04</span>
           <span class="layer-item__name">Clinical Trajectory System</span>
         </div>
-        <div class="layer-item__content">
-          <p class="layer-item__desc">Pemantauan longitudinal pasien kronis &mdash; DM, hipertensi, TBC &mdash; dengan visualisasi trajectory yang membantu dokter melihat tren sebelum krisis terjadi.</p>
-          <div class="layer-item__tags">
-            <span class="tag">CTS Engine</span>
-            <span class="tag">Longitudinal Monitoring</span>
-            <span class="tag">Chronic Disease</span>
-          </div>
+        <div class="layer-item__right">
+          <p class="layer-item__desc">Pemantauan longitudinal pasien kronis &mdash; DM, hipertensi, TBC &mdash; dengan visualisasi trajectory untuk melihat tren sebelum krisis terjadi.</p>
+          <div class="tags"><span class="tag">CTS Engine</span><span class="tag">Longitudinal Monitoring</span><span class="tag">Chronic Disease</span></div>
         </div>
       </div>
+
       <div class="layer-item">
-        <div class="layer-item__label">
+        <div class="layer-item__left">
           <span class="layer-item__num">05</span>
-          <span class="layer-item__name">Analytics & Auditability</span>
+          <span class="layer-item__name">Analytics &amp; Auditability</span>
         </div>
-        <div class="layer-item__content">
-          <p class="layer-item__desc">Setiap rekomendasi AI tercatat, teraudit, dan dapat dipertanggungjawabkan. Dashboard kepala puskesmas, laporan Dinkes, dan audit trail lengkap tersedia secara otomatis.</p>
-          <div class="layer-item__tags">
-            <span class="tag">Full Audit Trail</span>
-            <span class="tag">Dinkes Dashboard</span>
-            <span class="tag">Explainable AI</span>
-          </div>
+        <div class="layer-item__right">
+          <p class="layer-item__desc">Setiap rekomendasi AI tercatat dan dapat dipertanggungjawabkan. Dashboard kepala puskesmas dan audit trail lengkap tersedia secara otomatis.</p>
+          <div class="tags"><span class="tag">Full Audit Trail</span><span class="tag">Dinkes Dashboard</span><span class="tag">Explainable AI</span></div>
         </div>
       </div>
+
     </div>
   </div>
 </section>
 
-<!-- IMPACT -->
+
+<!-- ====================================================
+     IMPACT
+     ==================================================== -->
 <section class="section section--alt">
   <div class="container">
-    <p class="eyebrow reveal">Dampak Terukur</p>
-    <h2 class="section__title reveal">Angka yang kami kejar</h2>
-    <div class="metrics-row reveal">
-      <div class="metric-block">
-        <div class="metric-block__num">-40%</div>
-        <div class="metric-block__label">Waktu dokumentasi per pasien</div>
+    <div class="section__header reveal">
+      <span class="label">Dampak Terukur</span>
+      <h2 class="section__title">Angka yang kami kejar</h2>
+    </div>
+    <div class="metrics-grid reveal">
+      <div class="metric-cell">
+        <div class="metric-cell__num">-40%</div>
+        <div class="metric-cell__label">Waktu dokumentasi per pasien</div>
       </div>
-      <div class="metric-block">
-        <div class="metric-block__num">+35%</div>
-        <div class="metric-block__label">Early referral rate kasus kritis</div>
+      <div class="metric-cell">
+        <div class="metric-cell__num">+35%</div>
+        <div class="metric-cell__label">Early referral rate kasus kritis</div>
       </div>
-      <div class="metric-block">
-        <div class="metric-block__num">26K</div>
-        <div class="metric-block__label">Lives potentially saved / month</div>
+      <div class="metric-cell">
+        <div class="metric-cell__num">26K</div>
+        <div class="metric-cell__label">Lives potentially saved / month</div>
       </div>
-      <div class="metric-block">
-        <div class="metric-block__num">100%</div>
-        <div class="metric-block__label">Audit trail setiap rekomendasi AI</div>
+      <div class="metric-cell">
+        <div class="metric-cell__num">100%</div>
+        <div class="metric-cell__label">Audit trail setiap rekomendasi AI</div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- TECH STACK -->
+
+<!-- ====================================================
+     TECH STACK
+     ==================================================== -->
 <section class="section">
   <div class="container">
-    <p class="eyebrow reveal">Arsitektur Teknologi</p>
-    <h2 class="section__title reveal">Dibangun untuk bertahan di lapangan</h2>
-    <p class="section__lead reveal">Infrastruktur yang bisa bekerja dengan koneksi terbatas, tanpa cloud dependency, dan tahan audit regulasi kesehatan Indonesia.</p>
+    <div class="section__header reveal">
+      <span class="label">Arsitektur Teknologi</span>
+      <h2 class="section__title">Dibangun untuk bertahan di lapangan</h2>
+      <p class="section__lead">Infrastruktur yang bekerja dengan koneksi terbatas, tanpa cloud dependency, dan tahan audit regulasi kesehatan Indonesia.</p>
+    </div>
     <div class="stack-grid reveal">
-      <div class="stack-card">
-        <div class="stack-card__header">
-          <div class="stack-card__dot"></div>
-          <span class="stack-card__title">AI / Model Layer</span>
-        </div>
-        <div class="stack-card__body">
-          <div class="stack-item"><span class="stack-item__name">Clinical LLM</span><span class="stack-item__val">MedGemma 4b via Ollama</span></div>
-          <div class="stack-item"><span class="stack-item__name">Inference</span><span class="stack-item__val">Local-first, offline capable</span></div>
-          <div class="stack-item"><span class="stack-item__name">Speech</span><span class="stack-item__val">Whisper (local)</span></div>
-          <div class="stack-item"><span class="stack-item__name">RAG</span><span class="stack-item__val">PNPK + local clinical corpus</span></div>
-        </div>
+
+      <div class="stack-col">
+        <div class="stack-col__title">AI / Model Layer</div>
+        <div class="stack-row"><span class="stack-row__key">Clinical LLM</span><span class="stack-row__val">MedGemma 4b via Ollama</span></div>
+        <div class="stack-row"><span class="stack-row__key">Inference</span><span class="stack-row__val">Local-first, offline capable</span></div>
+        <div class="stack-row"><span class="stack-row__key">Speech</span><span class="stack-row__val">Whisper (local)</span></div>
+        <div class="stack-row"><span class="stack-row__key">RAG</span><span class="stack-row__val">PNPK + local clinical corpus</span></div>
       </div>
-      <div class="stack-card">
-        <div class="stack-card__header">
-          <div class="stack-card__dot"></div>
-          <span class="stack-card__title">Backend / Data Layer</span>
-        </div>
-        <div class="stack-card__body">
-          <div class="stack-item"><span class="stack-item__name">Database</span><span class="stack-item__val">Supabase (PostgreSQL)</span></div>
-          <div class="stack-item"><span class="stack-item__name">Monorepo</span><span class="stack-item__val">Abyss (D:\Devops\abyss-monorepo)</span></div>
-          <div class="stack-item"><span class="stack-item__name">Runtime</span><span class="stack-item__val">Node.js + PowerShell 7</span></div>
-          <div class="stack-item"><span class="stack-item__name">Deployment</span><span class="stack-item__val">On-premise + Cloudflare edge</span></div>
-        </div>
+
+      <div class="stack-col">
+        <div class="stack-col__title">Backend / Data Layer</div>
+        <div class="stack-row"><span class="stack-row__key">Database</span><span class="stack-row__val">Supabase (PostgreSQL)</span></div>
+        <div class="stack-row"><span class="stack-row__key">Monorepo</span><span class="stack-row__val">Abyss (D:\Devops\abyss-monorepo)</span></div>
+        <div class="stack-row"><span class="stack-row__key">Runtime</span><span class="stack-row__val">Node.js + PowerShell 7</span></div>
+        <div class="stack-row"><span class="stack-row__key">Deployment</span><span class="stack-row__val">On-premise + Cloudflare edge</span></div>
       </div>
-      <div class="stack-card">
-        <div class="stack-card__header">
-          <div class="stack-card__dot"></div>
-          <span class="stack-card__title">Clinical Integration</span>
-        </div>
-        <div class="stack-card__body">
-          <div class="stack-item"><span class="stack-item__name">RME Target</span><span class="stack-item__val">ePuskesmas, SIMRS</span></div>
-          <div class="stack-item"><span class="stack-item__name">Data Format</span><span class="stack-item__val">HL7 FHIR R4</span></div>
-          <div class="stack-item"><span class="stack-item__name">Automation</span><span class="stack-item__val">Playwright (Abyss RME Automator)</span></div>
-          <div class="stack-item"><span class="stack-item__name">Compliance</span><span class="stack-item__val">Permenkes data governance</span></div>
-        </div>
+
+      <div class="stack-col">
+        <div class="stack-col__title">Clinical Integration</div>
+        <div class="stack-row"><span class="stack-row__key">RME Target</span><span class="stack-row__val">ePuskesmas, SIMRS</span></div>
+        <div class="stack-row"><span class="stack-row__key">Data Format</span><span class="stack-row__val">HL7 FHIR R4</span></div>
+        <div class="stack-row"><span class="stack-row__key">Automation</span><span class="stack-row__val">Playwright (Abyss RME Automator)</span></div>
+        <div class="stack-row"><span class="stack-row__key">Compliance</span><span class="stack-row__val">Permenkes data governance</span></div>
       </div>
-      <div class="stack-card">
-        <div class="stack-card__header">
-          <div class="stack-card__dot"></div>
-          <span class="stack-card__title">Frontend / UX Layer</span>
-        </div>
-        <div class="stack-card__body">
-          <div class="stack-item"><span class="stack-item__name">Console UI</span><span class="stack-item__val">Vanilla HTML/CSS/JS</span></div>
-          <div class="stack-item"><span class="stack-item__name">Design System</span><span class="stack-item__val">B2R-inspired tokens</span></div>
-          <div class="stack-item"><span class="stack-item__name">Target Device</span><span class="stack-item__val">Desktop + Android tablet</span></div>
-          <div class="stack-item"><span class="stack-item__name">Offline Mode</span><span class="stack-item__val">PWA-ready architecture</span></div>
-        </div>
+
+      <div class="stack-col">
+        <div class="stack-col__title">Frontend / UX Layer</div>
+        <div class="stack-row"><span class="stack-row__key">Console UI</span><span class="stack-row__val">Vanilla HTML/CSS/JS</span></div>
+        <div class="stack-row"><span class="stack-row__key">Design System</span><span class="stack-row__val">B2R-inspired token system</span></div>
+        <div class="stack-row"><span class="stack-row__key">Target Device</span><span class="stack-row__val">Desktop + Android tablet</span></div>
+        <div class="stack-row"><span class="stack-row__key">Offline Mode</span><span class="stack-row__val">PWA-ready architecture</span></div>
       </div>
+
     </div>
   </div>
 </section>
 
-<!-- QUOTES -->
+
+<!-- ====================================================
+     STRATEGIC POSITION
+     ==================================================== -->
 <section class="section section--alt">
   <div class="container">
-    <p class="eyebrow reveal">Posisi Strategis</p>
-    <h2 class="section__title reveal">Mengapa Sentra Assist berbeda</h2>
-    <div class="quotes-grid reveal">
-      <div class="pitch-quote">
-        <span class="pitch-quote__tag">Workflow Moat</span>
-        <p class="pitch-quote__text">"Produk kesehatan paling kuat bukan yang paling banyak fiturnya, tetapi yang paling dalam tertanam ke workflow harian tenaga medis."</p>
+    <div class="section__header reveal">
+      <span class="label">Posisi Strategis</span>
+      <h2 class="section__title">Mengapa Sentra Assist berbeda</h2>
+    </div>
+    <div class="quotes-list reveal">
+
+      <div class="quote-item">
+        <span class="quote-item__tag">Workflow Moat</span>
+        <p class="quote-item__text">&ldquo;Produk kesehatan paling kuat bukan yang paling banyak fiturnya, tetapi yang paling dalam tertanam ke workflow harian tenaga medis.&rdquo;</p>
       </div>
-      <div class="pitch-quote">
-        <span class="pitch-quote__tag">Safety-First AI</span>
-        <p class="pitch-quote__text">"Dirancang dengan pagar keselamatan, auditability, dan penghormatan penuh pada otoritas clinician &mdash; bukan sekadar terlihat cerdas."</p>
+
+      <div class="quote-item">
+        <span class="quote-item__tag">Safety-First AI</span>
+        <p class="quote-item__text">&ldquo;Dirancang dengan pagar keselamatan, auditability, dan penghormatan penuh pada otoritas clinician &mdash; bukan sekadar terlihat cerdas.&rdquo;</p>
       </div>
-      <div class="pitch-quote">
-        <span class="pitch-quote__tag">Indonesian Fit</span>
-        <p class="pitch-quote__text">"Bukan untuk konteks generik. Untuk realitas layanan primer Indonesia: beban kerja tinggi, variasi kualitas klinis, keterbatasan alat bantu."</p>
+
+      <div class="quote-item">
+        <span class="quote-item__tag">Indonesian Fit</span>
+        <p class="quote-item__text">&ldquo;Bukan untuk konteks generik. Untuk realitas layanan primer Indonesia: beban kerja tinggi, variasi kualitas klinis, keterbatasan alat bantu.&rdquo;</p>
       </div>
-      <div class="pitch-quote">
-        <span class="pitch-quote__tag">Wedge to Platform</span>
-        <p class="pitch-quote__text">"Kami memulai dari assist in-context yang cepat memberi nilai. Fondasinya memungkinkan Sentra berkembang menjadi platform intelligence klinis yang jauh lebih besar."</p>
+
+      <div class="quote-item">
+        <span class="quote-item__tag">Wedge to Platform</span>
+        <p class="quote-item__text">&ldquo;Fondasinya memungkinkan Sentra berkembang dari assist in-context menjadi platform intelligence klinis yang jauh lebih besar.&rdquo;</p>
       </div>
+
     </div>
   </div>
 </section>
 
-<!-- PHRASES -->
+
+<!-- ====================================================
+     KEY PHRASES
+     ==================================================== -->
 <div class="phrases-section">
   <div class="container">
-    <p class="eyebrow">Kalimat Kunci</p>
-    <div class="phrases-grid">
+    <span class="label">Kalimat Kunci</span>
+    <div class="phrases-wrap">
       <span class="phrase-pill">Clinical intelligence at the point of care</span>
       <span class="phrase-pill">Embedded safety-first AI</span>
       <span class="phrase-pill">Indonesian primary care fit</span>
@@ -918,49 +1067,60 @@ img { max-width: 100%; display: block; }
   </div>
 </div>
 
-<!-- CONCLUSION -->
+
+<!-- ====================================================
+     CONCLUSION
+     ==================================================== -->
 <section class="conclusion">
   <div class="container">
     <blockquote class="conclusion__quote">
-      "Sentra Assist adalah lapisan kecerdasan klinis yang realistis, aman, dan sangat dekat
-      dengan kebutuhan layanan primer Indonesia &mdash; cukup praktis untuk dipakai sekarang,
-      dan cukup visioner untuk menjadi fondasi masa depan."
+      &ldquo;Sentra Assist adalah lapisan kecerdasan klinis yang realistis, aman,
+      dan sangat dekat dengan kebutuhan layanan primer Indonesia &mdash;
+      cukup praktis untuk dipakai sekarang, dan cukup visioner untuk menjadi
+      fondasi masa depan.&rdquo;
     </blockquote>
-    <p class="conclusion__source">Ringkasan Eksekutif &middot; Sentra Assist &middot; 2026</p>
+    <p class="conclusion__meta">Ringkasan Eksekutif &middot; Sentra Assist &middot; 2026</p>
   </div>
 </section>
 
-<!-- FOOTER -->
+
+<!-- ====================================================
+     FOOTER — LIGHT
+     ==================================================== -->
 <footer class="footer">
   <div class="container">
     <div class="footer__inner">
       <div>
         <div class="footer__brand">Sentra Assist</div>
-        <p class="footer__tagline">Clinical Decision Support Layer &middot; Layanan Primer Indonesia</p>
-        <p class="footer__credits">Architected by dr Ferdi Iskandar &middot; Sentra AI &middot; 2026</p>
+        <div class="footer__tagline">Clinical Decision Support Layer &middot; Layanan Primer Indonesia</div>
+        <div class="footer__credits">Architected by dr Ferdi Iskandar &middot; Sentra AI &middot; 2026</div>
       </div>
-      <div>
-        <p class="footer__meta-line">Dokumen: Technology Overview</p>
-        <p class="footer__meta-line">Status: Draft &mdash; Investor Pitch</p>
-        <p class="footer__meta-line">Versi: 2026-06-16</p>
+      <div class="footer__meta">
+        <p>Dokumen: Technology Overview</p>
+        <p>Status: Draft &mdash; Investor Pitch</p>
+        <p>Versi: 2026-06-16</p>
       </div>
     </div>
   </div>
 </footer>
 
+
 <script>
-  const nav = document.getElementById('nav');
+  // Nav scroll
+  const nav = document.getElementById('main-nav');
   window.addEventListener('scroll', () => {
     nav.classList.toggle('scrolled', window.scrollY > 20);
-  });
+  }, { passive: true });
+
+  // Scroll reveal
   const reveals = document.querySelectorAll('.reveal');
-  const observer = new IntersectionObserver(
+  const io = new IntersectionObserver(
     entries => entries.forEach(e => {
-      if (e.isIntersecting) { e.target.classList.add('visible'); observer.unobserve(e.target); }
+      if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); }
     }),
-    { threshold: 0.08, rootMargin: '0px 0px -40px 0px' }
+    { threshold: 0.06, rootMargin: '0px 0px -30px 0px' }
   );
-  reveals.forEach(el => observer.observe(el));
+  reveals.forEach(el => io.observe(el));
 </script>
 
 </body>
