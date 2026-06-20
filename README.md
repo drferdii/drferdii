@@ -9,12 +9,12 @@
 <td width="36%" align="center" valign="middle">
 <img src="https://i.postimg.cc/Y2Z6CBzh/Chat-GPT-Image-Jun-6-2026-11-43-05-PM.png" alt="dr. Ferdi Iskandar" width="250">
   <br />
-  <sub><b>dr codieverse</b> · Proud Public Servant</sub>
+  <sub><b>dr Ferdi Iskandar</b> · Proud Public Servant</sub>
 </td>
 <td width="64%" valign="middle">
 
 # Welcome to My Github Repository
-### Healthcare Artificial Intelligence · Clinical Systems · Indonesian Medical Infrastructure
+### Sentra Artificial Intelligence · Clinical Systems · Indonesian Medical Infrastructure
 
 <p>
   <b>Founder, Sentra Artificial Intelligence</b><br />
