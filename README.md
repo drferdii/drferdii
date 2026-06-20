@@ -9,7 +9,7 @@
 <td width="36%" align="center" valign="middle">
 <img src="https://i.postimg.cc/vBJjDPqR/Chat-GPT-Image-Jun-21-2026-01-30-16-AM.png" alt="dr. Ferdi Iskandar" width="250">
   <br />
-  <sub><b>dr Ferdi Iskandar</b> · Proud Public Servant</sub>
+  <sub><b>dr Ferdi Iskandar</b> · https://ferdiiskandar.com</sub>
 </td>
 <td width="64%" valign="middle">
 
