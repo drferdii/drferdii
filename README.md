@@ -7,7 +7,7 @@
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
-<img src="https://i.postimg.cc/Y2Z6CBzh/Chat-GPT-Image-Jun-6-2026-11-43-05-PM.png" alt="dr. Ferdi Iskandar" width="250">
+<img src="https://i.postimg.cc/vBJjDPqR/Chat-GPT-Image-Jun-21-2026-01-30-16-AM.png" alt="dr. Ferdi Iskandar" width="250">
   <br />
   <sub><b>dr Ferdi Iskandar</b> · Proud Public Servant</sub>
 </td>
