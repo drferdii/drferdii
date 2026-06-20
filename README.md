@@ -13,7 +13,7 @@
 </td>
 <td width="64%" valign="middle">
 
-# Welcome to My Github Repository
+# Welcome to MyGithub Repository
 ### Sentra Artificial Intelligence · Clinical Systems · Indonesian Medical Infrastructure
 
 <p>
