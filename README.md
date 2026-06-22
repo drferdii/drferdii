@@ -17,7 +17,7 @@
 ### Sentra Artificial Intelligence · Clinical Systems · Indonesian Medical Infrastructure
 
 <p>
-  <b>Founder, Sentra Artificial Intelligence</b><br />
+  <b>Sentra Artificial Intelligence</b><br />
   Clinical Decision Support · AI-Native Healthcare Operations<br />
   Kediri, Indonesia · UTC+7
 </p>
@@ -36,7 +36,7 @@
 
 ## ── FRONT PAGE · ABOUT ME
 
-I'm Codieverse. By training I'm a physician; by circumstance I ended up running a hospital, and along the way started building Sentra Artificial Intelligence, an attempt at a healthcare AI ecosystem covering clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure. Most of what I do lives at the overlap of clinical judgment, AI infrastructure, and the messier realities of hospital operations.
+Nick Codieverse. By training I'm a physician; by circumstance I ended up running a hospital, and along the way started building Sentra Artificial Intelligence, an attempt at a healthcare AI ecosystem covering clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure. Most of what I do lives at the overlap of clinical judgment, AI infrastructure, and the messier realities of hospital operations.
 
 My work sits at the intersection of clinical judgment, AI infrastructure, and real-world hospital operations.
 
