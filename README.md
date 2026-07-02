@@ -1,374 +1,426 @@
 <!--
-  GitHub Profile README — Editorial / Newspaper Style
+  GitHub Profile README — Sentra Origin / Modern Motion Dossier
   Profile repo target: ferdiiskandarse/ferdiiskandarse
-  Suggested filename: README.md
+  Filename: README.md
+
+  Design principle preserved:
+  Deep systems dossier · clinical seriousness · human authority · audit-first architecture.
+
+  Modernization layer:
+  Controlled color spectrum · GitHub-safe SVG motion · dynamic profile surfaces · clean visual hierarchy.
 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=SENTRA%20%2F%2F%20THE%20ORIGIN&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Clinical%20AI%20Architecture%20%C2%B7%20Human%20Judgment%20First%20%C2%B7%20Built%20from%20Indonesia&descSize=15&descAlignY=61&animation=fadeIn&color=gradient&customColorList=12,14,22,24,30" alt="Sentra Origin animated header" />
+</p>
 
 <table width="100%">
 <tr>
-<td width="36%" align="center" valign="middle">
-<img src="https://i.postimg.cc/vBJjDPqR/Chat-GPT-Image-Jun-21-2026-01-30-16-AM.png" alt="dr. Ferdi Iskandar" width="250">
-  <br />
-  <sub><b>dr Ferdi Iskandar</b> · https://ferdiiskandar.com</sub>
+<td width="34%" align="center" valign="middle">
+
+<img src="https://i.postimg.cc/vBJjDPqR/Chat-GPT-Image-Jun-21-2026-01-30-16-AM.png" alt="dr. Ferdi Iskandar" width="245" />
+
+<br />
+<br />
+
+<a href="https://ferdiiskandar.com">
+  <img src="https://img.shields.io/badge/FERDIISKANDAR.COM-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Official website" />
+</a>
+<br />
+<img src="https://img.shields.io/badge/KEDIRI%20INDONESIA-DC2626?style=flat-square" alt="Kediri Indonesia" />
+<img src="https://img.shields.io/badge/UTC%2B7-F97316?style=flat-square" alt="UTC+7" />
+
+<br />
+<br />
+
+<sub><b>dr. Ferdi Iskandar</b><br />Physician · Hospital CEO · Augmented Intelligence Assistance</sub>
+
 </td>
-<td width="64%" valign="middle">
+<td width="66%" valign="middle">
 
-# Welcome to MyGithub Repository
-### Sentra Artificial Intelligence · Clinical Systems · Indonesian Medical Infrastructure
+# SENTRA // THE ORIGIN
 
-<p>
-  <b>Sentra Artificial Intelligence</b><br />
-  Clinical Decision Support · AI-Native Healthcare Operations<br />
-  Kediri, Indonesia · UTC+7
+<a href="https://ferdiiskandar.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=33&duration=3200&pause=1000&color=F97316&vCenter=true&width=710&height=54&lines=Technology+terbaik+adalah+yang+bekerja+dalam+diam.;The+machine+proposes.+The+clinician+decides.;Built+for+clinical+workflows%2C+not+AI+theater.;From+fragmented+care+to+auditable+systems." alt="Animated Sentra doctrine" />
+</a>
+
+<sub><b>Operational signal:</b> Kediri, Indonesia · UTC+7 · systems under active construction</sub>
+
+<br />
+<br />
+
+<b>Sentra Artificial Intelligence</b><br />
+Twenty-two systems. One architecture. One rule: <b>clinicians decide</b>.
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=flat-square" alt="Status Active" />
+<img src="https://img.shields.io/badge/DOMAIN-CLINICAL%20REASONING-2563EB?style=flat-square" alt="Clinical Reasoning" />
+<img src="https://img.shields.io/badge/ARCHITECTURE-THE%20ABYSS-111827?style=flat-square" alt="The Abyss" />
+<img src="https://img.shields.io/badge/ORIGIN-INDONESIA-DC2626?style=flat-square" alt="Origin Indonesia" />
+<img src="https://img.shields.io/badge/BOUNDARY-HUMAN%20AUTHORITY-F97316?style=flat-square" alt="Human Authority" />
+<img src="https://img.shields.io/badge/MODE-AUDIT%20FIRST-7C3AED?style=flat-square" alt="Audit First" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ── 00 · ORIGIN SIGNAL
+
+I'm a physician. By circumstance I ended up running a hospital. Then I started noticing where the system leaks — the referral that vanishes, the lab value nobody escalates, the patient who disappears after discharge.
+
+Sentra Artificial Intelligence is my answer. Not a startup pitch. A working ecosystem of clinical reasoning engines, workflow automation, and hospital infrastructure — built quietly, tested against real wards, and designed to outlast the hype cycle.
+
+Most of what runs here is not visible from the surface. That's intentional.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### LAYER I · JUDGMENT
+
+Differential reasoning, triage logic, guideline-aware workflows, and the safety gates that keep machine output subordinate to human decision.
+
+<img src="https://img.shields.io/badge/clinical%20judgment-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/red%20flags-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/reviewer%20first-F97316?style=flat-square" />
+
+</td>
+<td width="33%" valign="top">
+
+### LAYER II · SUBSTRATE
+
+RAG, persistent memory, orchestration, voice agents, autonomous workflows, observability. The machinery beneath the interface.
+
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/memory-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/orchestration-0F172A?style=flat-square" />
+
+</td>
+<td width="33%" valign="top">
+
+### LAYER III · GROUND TRUTH
+
+Hospital dashboards, EMR bridges, coding audit, admission flow, bed management, telemedicine. Where theory meets a 2 AM emergency ward.
+
+<img src="https://img.shields.io/badge/EMR-16A34A?style=flat-square" />
+<img src="https://img.shields.io/badge/audit-475569?style=flat-square" />
+<img src="https://img.shields.io/badge/ward%20reality-B91C1C?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+The objective is precise: **convert fragmented healthcare workflows into intelligent, auditable systems that a clinician would stake their license on.**
+
+---
+
+## ── 01 · DOCTRINE
+
+> **AI in medicine should not perform. It should hold. Useful, humble, explainable, safe — or it doesn't ship.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### THE HUMAN HOLDS THE KEY
+
+Every system here terminates at a human reviewer. The machine proposes, structures, retrieves. It never signs. Final authority is not a feature — it's a boundary.
+
+</td>
+<td width="50%" valign="top">
+
+### GATED REASONING
+
+No clinical output crosses the boundary without passing deterministic checks: red-flag detection, contraindication review, uncertainty handling, escalation triggers.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### BUILT FOR THIS TERRAIN
+
+Indonesian healthcare has its own physics: BPJS complexity, EMR friction, broken referral pathways, fragmented patient journeys. Systems here are shaped by that terrain, not imported over it.
+
+</td>
+<td width="50%" valign="top">
+
+### SEPARABLE BY DESIGN
+
+Diagnosis, retrieval, memory, EMR automation, telemedicine, security — each module can be inspected, audited, and replaced without the others noticing. Independent now, unified later.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ONE PROBLEM, THEN DEPTH
+
+No fantasy platforms. Each system started as one specific pain, observed firsthand, solved narrowly. Expansion happens after proof, never before.
+
+</td>
+<td width="50%" valign="top">
+
+### NO MAGIC WITHOUT AUDIT
+
+If a system can't show its inputs, its reasoning boundaries, its confidence, and its escalation logic — it doesn't belong near a patient.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ── 02 · SYSTEM CONSTELLATION
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=820&height=34&lines=diagnosis+%E2%86%92+triage+%E2%86%92+memory+%E2%86%92+EMR+%E2%86%92+audit+%E2%86%92+operations;one+clinical+ecosystem+%7C+separable+modules+%7C+review-first+outputs" alt="Animated Sentra system constellation" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Healthcare%20AI-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain-Clinical%20Decision%20Support-2f4f4f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Builder-Sentra%20Artificial%20Intelligence-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Indonesia-c41e3a?style=flat-square" />
-</p>
-</td>
-</tr>
-</table>
-
----
-
-## ── FRONT PAGE · ABOUT ME
-
-Welcome everyone. I'm a physician; by circumstance I ended up running a hospital, and along the way started building Sentra Artificial Intelligence, an attempt at a healthcare AI ecosystem covering clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure. Most of what I do lives at the overlap of clinical judgment, AI infrastructure, and the messier realities of hospital operations.
-
-My work sits at the intersection of clinical judgment, AI infrastructure, and real-world hospital operations.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### CLINICAL JUDGMENT
-
-Medical reasoning, triage, diagnosis support, guideline-aware workflows, and safety gates for clinician-facing systems.
-
-</td>
-<td width="33%" valign="top">
-
-### AI INFRASTRUCTURE
-
-RAG, memory, orchestration, voice agents, autonomous workflows, observability, and modular healthcare AI engines.
-
-</td>
-<td width="33%" valign="top">
-
-### OPERATIONS
-
-Hospital dashboards, EMR bridges, coding audit, admission flow, bed management, telemedicine, and real-world deployment discipline.
-
-</td>
-</tr>
-</table>
-
-The mission is simple but demanding: **turn fragmented healthcare workflows into intelligent, auditable, assistive systems that clinicians can trust.**
-
----
-
-## ── EDITORIAL POSITION · WHAT I BELIEVE
-
-> **AI in medicine should not be theatrical. It should be useful, humble, explainable, and safe.**
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### CLINICIAN-FIRST
-
-AI supports the doctor. It does not claim final authority. Every serious medical AI system must preserve the human reviewer as the final accountable decision-maker.
-
-</td>
-<td width="50%" valign="top">
-
-### SAFETY-GATED REASONING
-
-Clinical output must pass deterministic checks, red-flag detection, contraindication review, uncertainty handling, and escalation boundaries.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### LOCAL RELEVANCE
-
-Indonesian healthcare realities matter: primary care, BPJS complexity, EMR friction, referral pathways, hospital operations, and patient journey fragmentation.
-
-</td>
-<td width="50%" valign="top">
-
-### MODULAR SYSTEMS
-
-Diagnosis, RAG, memory, EMR automation, telemedicine, cybersecurity, and dashboards must remain separable, auditable, and replaceable.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ONE CLEAR PROBLEM FIRST
-
-No overbuilt fantasy platform. Start with a real clinical or operational pain, solve it clearly, then expand deliberately.
-
-</td>
-<td width="50%" valign="top">
-
-### AUDITABILITY OVER MAGIC
-
-Clinical AI must show its inputs, reasoning boundaries, confidence, uncertainty, evidence trail, and escalation logic.
-
-</td>
-</tr>
-</table>
-
----
-
-## ── ALL SYSTEMS AT A GLANCE · SENTRA PROJECT DOSSIER
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 · AADI  
+### 01 · AADI
 **Autonomous Artificial Diagnostic Intelligence**
 
-A layered autonomous diagnostic reasoning engine designed to assist clinical decision-making through structured differential reasoning, safety checks, ICD mapping, and clinician-review boundaries.
+A layered diagnostic reasoning engine: structured differentials, safety checks, ICD mapping, hard clinician-review boundaries.
 
-**Core intent:** diagnostic support, not final diagnosis.
+`FUNCTION: diagnostic support. Never final diagnosis.`
 
 </td>
 <td width="50%" valign="top">
 
-### 02 · Audrey  
+### 02 · AUDREY
 **Voice-First Clinical Intelligence**
 
-A real-time voice clinical assistant built to support medical encounters, capture clinical context, surface structured insights, and reduce documentation friction during consultations.
+A real-time voice presence in the consultation room. Captures clinical context, surfaces structured insight, dissolves documentation friction.
 
-**Core intent:** ambient clinical assistance.
+`FUNCTION: ambient assistance. Listens so the doctor can look at the patient.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 · Intelligence Dashboard  
+### 03 · INTELLIGENCE DASHBOARD
 **Unified Clinical Operations Platform**
 
-A central operations dashboard for EMR workflows, ICD support, reporting, communication, patient monitoring, telemedicine, and clinical intelligence surfaces.
+One command surface for EMR workflows, ICD support, reporting, patient monitoring, telemedicine, and clinical intelligence.
 
-**Core intent:** one command center for clinical operations.
+`FUNCTION: single pane over the entire operation.`
 
 </td>
 <td width="50%" valign="top">
 
-### 04 · Sentra Assist  
+### 04 · SENTRA ASSIST
 **Clinical Workflow Automation Extension**
 
-A browser extension for automating clinical workflow steps, transferring structured data into EMR systems, and assisting clinicians with decision-support surfaces inside their existing workflow.
+A browser extension embedded inside the clinician's existing workflow: structured data transfer into EMR, decision-support surfaces where the work actually happens.
 
-**Core intent:** reduce repetitive EMR friction.
+`FUNCTION: erase repetitive EMR friction.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 05 · Telemedicine  
+### 05 · TELEMEDICINE
 **Remote Consultation Infrastructure**
 
-A WebRTC-based remote consultation system with clinical notes, scheduling integration, patient-room flow, and consultation continuity.
+WebRTC consultation with clinical notes, scheduling, patient-room flow, and continuity — distance care that behaves like care, not like a video call.
 
-**Core intent:** make distance care clinically usable, not merely video-based.
+`FUNCTION: clinical-grade remote consultation.`
 
 </td>
 <td width="50%" valign="top">
 
-### 06 · ReferraLink  
+### 06 · REFERRALINK
 **Referral & Awareness-Intelligence Protocol**
 
-A referral-routing and claim-awareness system for healthcare operations, designed around regulatory fluctuation, insurance/BPJS complexity, semantic cache support, and contextual decision assistance.
+Referral routing and claim awareness engineered around regulatory fluctuation, BPJS complexity, semantic cache, contextual decision assistance.
 
-**Current engineering note:** scaffold exists, but requires final verification, refactor decision, and environment/security audit before being called production-ready.
+`STATUS: scaffold live. Awaiting final verification, refactor decision, and security audit before promotion.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 07 · Med-Cognitive  
+### 07 · MED-COGNITIVE
 **Persistent Clinical Memory Layer**
 
-A memory architecture for AI agents that preserves useful clinical context across sessions using semantic retrieval, persistent memory, and structured recall.
+Memory architecture for agents: semantic retrieval, persistent context, structured recall across sessions.
 
-**Core intent:** make AI agents context-aware without unsafe hidden assumptions.
+`FUNCTION: context-aware agents with zero hidden assumptions.`
 
 </td>
 <td width="50%" valign="top">
 
-### 08 · MELLY  
+### 08 · MELLY
 **Maternal & Pediatric Personal Virtual Agent**
 
-A personal virtual agent for patient accompaniment from pre-conception through pregnancy, postpartum care, and pediatric continuity.
+A personal agent that walks with the patient — pre-conception, pregnancy, postpartum, pediatric continuity.
 
-**Core intent:** proactive patient guidance across the maternal-child journey.
+`FUNCTION: proactive companionship across the maternal-child journey.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 09 · Melinda Dashboard  
+### 09 · MELINDA DASHBOARD
 **Hospital Interoperability Dashboard**
 
-A cross-unit interoperability dashboard for RSIA Melinda operations, designed to unify fragmented departmental data and make operational status visible.
+Cross-unit interoperability for RSIA Melinda: fragmented departmental data made visible on one operational surface.
 
-**Core intent:** reduce hospital data silos.
+`FUNCTION: collapse the silos.`
 
 </td>
 <td width="50%" valign="top">
 
-### 10 · Melinda Shield  
+### 10 · MELINDA SHIELD
 **Predictive Cybersecurity Architecture**
 
-A layered cybersecurity architecture for protecting clinical data through monitoring, encryption, behavioral analysis, access governance, and rapid containment concepts.
+Layered defense over clinical data: monitoring, encryption, behavioral analysis, access governance, rapid containment.
 
-**Core intent:** secure the clinical AI operating environment.
+`FUNCTION: harden the perimeter of the clinical AI environment.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 11 · Autonomous Admission  
+### 11 · AUTONOMOUS ADMISSION
 **Admission & Patient Journey Automation**
 
-An automated admission system for extracting referral documents, validating schedules, tracking patient journey steps, and reducing queue friction.
+Referral extraction, schedule validation, journey tracking. The queue becomes a flow.
 
-**Core intent:** move admission from manual queue to intelligent flow.
+`FUNCTION: admission without the waiting-room entropy.`
 
 </td>
 <td width="50%" valign="top">
 
-### 12 · Smart Triage  
+### 12 · SMART TRIAGE
 **Structured Early Risk Detection**
 
-An early triage layer that collects structured symptoms, flags emergency risk, and prepares the clinician before face-to-face consultation.
+Structured symptom capture and emergency flagging before the face-to-face — the clinician arrives already briefed.
 
-**Core intent:** detect risk earlier and prioritize care.
+`FUNCTION: detect risk before it announces itself.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 13 · Proactive Care Navigator  
+### 13 · PROACTIVE CARE NAVIGATOR
 **Post-Discharge Continuity Engine**
 
-A proactive monitoring system for post-discharge follow-up, complication prevention, immunization reminders, and continuity-of-care workflows.
+Post-discharge monitoring, complication prevention, immunization reminders, continuity workflows.
 
-**Core intent:** prevent patients from disappearing after discharge.
+`FUNCTION: no patient vanishes after discharge.`
 
 </td>
 <td width="50%" valign="top">
 
-### 14 · Ambient Scribe  
+### 14 · AMBIENT SCRIBE
 **Voice-to-EMR Documentation Engine**
 
-A clinical documentation engine for converting consultation speech into structured medical notes and mapping relevant information into EMR fields.
+Consultation speech into structured medical notes, mapped straight into EMR fields.
 
-**Core intent:** let doctors focus on patients, not typing.
+`FUNCTION: doctors watch patients, not cursors.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 15 · Critical Alert System  
+### 15 · CRITICAL ALERT SYSTEM
 **Early Warning & Escalation Layer**
 
-A clinical alert system that watches laboratory data, telemetry, and high-risk signals to support rapid escalation to the right clinical team.
+Constant watch over labs, telemetry, and high-risk signals — with a direct line to the right team.
 
-**Core intent:** prevent critical deterioration from being missed.
+`FUNCTION: deterioration never goes unnoticed.`
 
 </td>
 <td width="50%" valign="top">
 
-### 16 · Predictive Bed Management  
+### 16 · PREDICTIVE BED MANAGEMENT
 **Discharge & Bed Readiness Orchestration**
 
-An orchestration layer for discharge readiness, bed turnover, housekeeping, pharmacy, billing, and department coordination.
+Discharge readiness, bed turnover, housekeeping, pharmacy, billing — one orchestration layer over patient flow.
 
-**Core intent:** improve patient flow and bed availability.
+`FUNCTION: beds move at the speed of the hospital, not the paperwork.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 17 · AI Coding Auditor  
+### 17 · AI CODING AUDITOR
 **Clinical Coding & Claim Defense**
 
-An automated audit system for checking clinical coding consistency against documentation, reducing claim dispute risk and improving coding reliability.
+Automated audit of coding consistency against documentation. Claims defended by cleaner clinical evidence.
 
-**Core intent:** defend claims with cleaner clinical evidence.
+`FUNCTION: reduce dispute risk at the source.`
 
 </td>
 <td width="50%" valign="top">
 
-### 18 · OR Orchestrator  
+### 18 · OR ORCHESTRATOR
 **Operating Room Logistics Intelligence**
 
-A real-time operating room orchestration system for priority cases, operating team readiness, blood product logistics, room allocation, and case flow.
+Real-time coordination of priority cases, team readiness, blood product logistics, room allocation.
 
-**Core intent:** coordinate high-stakes surgical logistics.
+`FUNCTION: high-stakes logistics, zero improvisation.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 19 · POGS  
+### 19 · POGS
 **Pregnancy Observation & Guidance System**
 
-A pregnancy observation system for maternal-fetal monitoring, risk detection, structured antenatal context, and escalation support.
+Maternal-fetal monitoring, risk detection, structured antenatal context, escalation support.
 
-**Core intent:** safer maternal-fetal surveillance.
+`FUNCTION: safer surveillance for two lives at once.`
 
 </td>
 <td width="50%" valign="top">
 
-### 20 · CDOS  
+### 20 · CDOS
 **Clinical Decision Orchestration System**
 
-A clinical decision orchestration engine that maps guidelines into diagnostic and operational workflows while preserving clinician oversight.
+Guidelines translated into living diagnostic and operational workflows — clinician oversight preserved end to end.
 
-**Core intent:** turn guidelines into usable clinical flow.
+`FUNCTION: guidelines that execute, not gather dust.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 21 · TRIAGE  
+### 21 · TRIAGE
 **Algorithmic Emergency Prioritization**
 
-A severity-score-based triage layer for emergency prioritization, risk stratification, and structured routing.
+Severity-score prioritization, risk stratification, structured routing.
 
-**Core intent:** prioritize patients by risk, not by noise.
+`FUNCTION: priority by risk, not by noise.`
 
 </td>
 <td width="50%" valign="top">
 
-### 22 · PREDICTION  
+### 22 · PREDICTION
 **Clinical Risk Forecasting Engine**
 
-A predictive engine for estimating deterioration, complications, readmission risk, and clinical trajectory changes.
+Deterioration, complications, readmission risk, trajectory shifts — estimated before they arrive.
 
-**Core intent:** shift care from reactive to anticipatory.
+`FUNCTION: care that moves from reactive to anticipatory.`
 
 </td>
 </tr>
@@ -376,19 +428,19 @@ A predictive engine for estimating deterioration, complications, readmission ris
 
 ---
 
-## ── THE ENGINE ROOM · CORE TECHNICAL WORK
+## ── 03 · THE ENGINE ROOM
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### REASONING SYSTEMS
+### REASONING
 
 - Differential diagnosis support
-- Clinical safety gates
-- ICD and guideline mapping
+- Deterministic safety gates
+- ICD & guideline mapping
 - Red-flag escalation
-- Confidence and uncertainty handling
+- Confidence & uncertainty handling
 
 </td>
 <td width="33%" valign="top">
@@ -404,7 +456,7 @@ A predictive engine for estimating deterioration, complications, readmission ris
 </td>
 <td width="33%" valign="top">
 
-### CLINICAL OPERATIONS
+### OPERATIONS
 
 - EMR automation
 - Voice-to-EMR
@@ -416,9 +468,13 @@ A predictive engine for estimating deterioration, complications, readmission ris
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,fastapi,nodejs,postgres,prisma,mongodb,docker,kubernetes,terraform,vercel,git&perline=15" alt="Sentra instrumentation icons" />
+</p>
+
 ---
 
-## ── SYSTEM ARCHITECTURE DOCTRINE
+## ── 04 · SIGNAL PATH
 
 ```text
 CLINICAL INPUT
@@ -433,20 +489,20 @@ NORMALIZATION LAYER
 REASONING / RAG / MEMORY
     │   clinical engine · retrieval evidence · persistent context
     ▼
-SAFETY GATE
+SAFETY GATE  ◄── nothing passes ungated
     │   red flags · uncertainty · contraindication · escalation boundary
     ▼
 CLINICIAN-FACING OUTPUT
     │   summary · differential support · triage signal · workflow action
     ▼
-HUMAN REVIEW
+HUMAN REVIEW  ◄── terminal authority
 ```
 
-The architecture is intentionally conservative: **AI proposes, structures, retrieves, and assists. Clinicians decide.**
+The architecture is deliberately conservative. **The machine proposes, structures, retrieves, assists. The clinician decides. Always.**
 
 ---
 
-## ── FIELD NOTES · CURRENT BUILDING STYLE
+## ── 05 · BUILD PROTOCOL
 
 <table>
 <tr>
@@ -454,14 +510,14 @@ The architecture is intentionally conservative: **AI proposes, structures, retri
 
 ### FRONTEND
 
-React, Next.js, Tailwind, clinical dashboard UX, calm enterprise interface, strong hierarchy, readable data surfaces, and low-friction workflows.
+React, Next.js, Tailwind. Calm enterprise surfaces, strict hierarchy, readable data — interfaces that stay quiet under pressure.
 
 </td>
 <td width="50%" valign="top">
 
 ### BACKEND
 
-TypeScript-first services, modular APIs, auditable contracts, clean package boundaries, and explicit integration layers.
+TypeScript-first services, modular APIs, auditable contracts, clean package boundaries, explicit integration layers.
 
 </td>
 </tr>
@@ -470,14 +526,14 @@ TypeScript-first services, modular APIs, auditable contracts, clean package boun
 
 ### AI RUNTIME
 
-RAG, orchestration, agent memory, local-first components where possible, model-agnostic architecture, and safety-aware output formatting.
+RAG, orchestration, agent memory. Local-first where possible, model-agnostic by design, safety-aware at the output boundary.
 
 </td>
 <td width="50%" valign="top">
 
 ### VOICE & DOCUMENTS
 
-Real-time clinical voice capture, voice-to-EMR workflows, OCR/document ingestion, structured clinical note generation, and review-first automation.
+Real-time clinical voice capture, voice-to-EMR, OCR ingestion, structured note generation. Automation is review-first — nothing writes itself into the record unseen.
 
 </td>
 </tr>
@@ -486,14 +542,14 @@ Real-time clinical voice capture, voice-to-EMR workflows, OCR/document ingestion
 
 ### DATA & SECURITY
 
-Structured contracts, retrieval-ready documents, PHI/PII boundaries, least privilege, audit trail, and no unsafe logging.
+Structured contracts, retrieval-ready documents, PHI/PII boundaries, least privilege, full audit trail. No unsafe logging. Ever.
 
 </td>
 <td width="50%" valign="top">
 
 ### DEPLOYMENT
 
-Prototype-to-production separation, verification before promotion, rollback awareness, and operational realism.
+Hard wall between prototype and production. Verification before promotion, rollback before courage, operational realism over demos.
 
 </td>
 </tr>
@@ -501,77 +557,81 @@ Prototype-to-production separation, verification before promotion, rollback awar
 
 ---
 
-## ── THE SENTRA OPERATING STANDARD
+## ── 06 · THE SENTRA OPERATING STANDARD
 
 ```text
 No magic without audit.
 No diagnosis without clinician review.
-No workflow automation without rollback.
+No automation without rollback.
 No clinical data without security boundaries.
-No platform expansion without one clear problem first.
+No expansion without one solved problem first.
 ```
+
+Every system answers five questions before it earns a repository:
 
 <table>
 <tr>
-<th align="left">Question</th>
+<th align="left">Interrogation</th>
 <th align="left">Required answer</th>
 </tr>
 <tr>
 <td><b>What clinical problem does this solve?</b></td>
-<td>A specific workflow pain, not a vague AI ambition.</td>
+<td>A specific workflow pain. Not an ambition.</td>
 </tr>
 <tr>
 <td><b>Who is the human reviewer?</b></td>
-<td>Doctor, nurse, admin, verifier, or operator must be clear.</td>
+<td>Named role: doctor, nurse, admin, verifier, operator.</td>
 </tr>
 <tr>
 <td><b>What is outside the scope?</b></td>
-<td>Non-scope prevents unsafe expansion.</td>
+<td>Non-scope is the fence against unsafe expansion.</td>
 </tr>
 <tr>
 <td><b>What can fail?</b></td>
-<td>Failure modes must be visible before deployment.</td>
+<td>Failure modes documented before deployment, not after.</td>
 </tr>
 <tr>
 <td><b>How is it verified?</b></td>
-<td>Build, typecheck, test, audit, and clinical review where needed.</td>
+<td>Build, typecheck, test, audit — clinical review where lives are involved.</td>
 </tr>
 </table>
 
 ---
 
-## ── SELECTED REPOSITORY SURFACES
+## ── 07 · SURFACE REPOSITORIES
+
+What's visible here is the surface layer. The depth lives in The Abyss.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Abyss Monorepo
+### THE ABYSS
 
-The core engineering ecosystem for Sentra Artificial Intelligence: shared packages, healthcare apps, RAG engines, governance surfaces, orchestration tools, and clinical infrastructure experiments.
+The core monorepo. Shared packages, healthcare apps, RAG engines, governance surfaces, orchestration tools, clinical infrastructure. Everything above eventually descends into it.
 
 </td>
 <td width="50%" valign="top">
 
-### IntelligenceBoard
+### INTELLIGENCEBOARD
 
-A clinical dashboard and operational command surface for CDSS, telemedicine, EMR bridge workflows, trajectory analytics, and clinical reporting.
+Clinical dashboard and operational command surface: CDSS, telemedicine, EMR bridge workflows, trajectory analytics, reporting.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Sentra Assist
+### SENTRA ASSIST
 
-A clinical browser-assistance surface for emergency detection, diagnosis support, structured workflow automation, and side-panel clinical intelligence.
+Clinical browser-assistance surface — emergency detection, diagnosis support, structured workflow automation, side-panel intelligence.
 
 </td>
 <td width="50%" valign="top">
 
-### ReferraLink
+### REFERRALINK
 
-A healthcare referral and routing surface with diagnosis endpoint concepts, semantic cache support, and memory-service helpers.
+Referral and routing surface with diagnosis endpoint concepts, semantic cache, memory-service helpers.
 
 </td>
 </tr>
@@ -607,33 +667,51 @@ A healthcare referral and routing surface with diagnosis endpoint concepts, sema
 </tr>
 </table>
 
-## ── LETS CONNECT
+---
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1511829076313374745) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-ferdi-iskandar-1b620a3b5) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ferdiiskandarse) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/drferdiiskadar@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SixCupaCoffee) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@drferdii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ClaudesyI81047) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drferdiiskadar@gmail.com) 
+## ── OPEN CHANNEL
 
-## ── CODIE STACKS
+<p align="center">
+  <a href="https://discord.gg/1511829076313374745"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://linkedin.com/in/dr-ferdi-iskandar-1b620a3b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@ferdiiskandarse"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://quora.com/profile/drferdiiskadar@gmail.com"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
+  <a href="https://reddit.com/user/SixCupaCoffee"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://tiktok.com/@drferdii"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://x.com/ClaudesyI81047"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:drferdiiskadar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## Station Stacks
+---
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## ── INSTRUMENTATION
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
 <p align="center">
-  <b>Dedicated to Aldebaran, Aimee, Audrey, and Del — & Indonesia Healthcare Ecosystem.</b><br />
-  <sub>Sentra Artificial Intelligence · Healthcare AI for safer, clearer, more humane clinical systems.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=gradient&customColorList=12,14,22,24,30" alt="Sentra footer wave" />
+</p>
+
+<p align="center">
+  <b>Dedicated to Aldebaran, Aimee, Audrey, and Del — & the Indonesia Healthcare Ecosystem.</b><br />
+  <sub>Sentra Artificial Intelligence · Built in the depth, deployed at the bedside.</sub><br />
+  <sub><code>// the surface is documentation. the depth is running.</code></sub>
 </p>
