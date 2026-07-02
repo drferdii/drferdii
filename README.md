@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README — Editorial / Newspaper Style
-  Profile repo target: codieverse/codieverse
+  Profile repo target: ferdiiskandarse/ferdiiskandarse
   Suggested filename: README.md
 -->
 
@@ -36,7 +36,7 @@
 
 ## ── FRONT PAGE · ABOUT ME
 
-Nick Codieverse. By training I'm a physician; by circumstance I ended up running a hospital, and along the way started building Sentra Artificial Intelligence, an attempt at a healthcare AI ecosystem covering clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure. Most of what I do lives at the overlap of clinical judgment, AI infrastructure, and the messier realities of hospital operations.
+Welcome everyone. By training I'm a physician; by circumstance I ended up running a hospital, and along the way started building Sentra Artificial Intelligence, an attempt at a healthcare AI ecosystem covering clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure. Most of what I do lives at the overlap of clinical judgment, AI infrastructure, and the messier realities of hospital operations.
 
 My work sits at the intersection of clinical judgment, AI infrastructure, and real-world hospital operations.
 
@@ -609,7 +609,7 @@ A healthcare referral and routing surface with diagnosis endpoint concepts, sema
 
 ## ── LETS CONNECT
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1511829076313374745) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-ferdi-iskandar-1b620a3b5) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@codieverse) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/drferdiiskadar@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SixCupaCoffee) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@drferdii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ClaudesyI81047) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drferdiiskadar@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1511829076313374745) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-ferdi-iskandar-1b620a3b5) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ferdiiskandarse) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/drferdiiskadar@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SixCupaCoffee) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@drferdii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ClaudesyI81047) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drferdiiskadar@gmail.com) 
 
 ## ── CODIE STACKS
 
