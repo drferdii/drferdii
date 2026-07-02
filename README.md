@@ -36,7 +36,7 @@
 
 ## ── FRONT PAGE · ABOUT ME
 
-Welcome everyone. By training I'm a physician; by circumstance I ended up running a hospital, and along the way started building Sentra Artificial Intelligence, an attempt at a healthcare AI ecosystem covering clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure. Most of what I do lives at the overlap of clinical judgment, AI infrastructure, and the messier realities of hospital operations.
+Welcome everyone. I'm a physician; by circumstance I ended up running a hospital, and along the way started building Sentra Artificial Intelligence, an attempt at a healthcare AI ecosystem covering clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure. Most of what I do lives at the overlap of clinical judgment, AI infrastructure, and the messier realities of hospital operations.
 
 My work sits at the intersection of clinical judgment, AI infrastructure, and real-world hospital operations.
 
