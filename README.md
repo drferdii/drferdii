@@ -217,7 +217,7 @@ One command surface for EMR workflows, ICD support, reporting, patient monitorin
 </td>
 <td width="50%" valign="top">
 
-### 04 · SENTRA ASSIST
+### 04 · ASISTE MEDIS (SENTRA ASSIST)
 **Clinical Workflow Automation Extension**
 
 A browser extension embedded inside the clinician's existing workflow: structured data transfer into EMR, decision-support surfaces where the work actually happens.
