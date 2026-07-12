@@ -18,7 +18,7 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="https://i.postimg.cc/vBJjDPqR/Chat-GPT-Image-Jun-21-2026-01-30-16-AM.png" alt="dr. Ferdi Iskandar" width="245" />
+<img src="https://i.postimg.cc/prBg8XYC/me-tp-shirt-removebg-preview.png" alt="dr. Ferdi Iskandar" width="245" />
 
 <br />
 <br />
