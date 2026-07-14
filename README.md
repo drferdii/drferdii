@@ -18,7 +18,7 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="https://i.postimg.cc/Zq2T0PrN/drferdi-suit-flag.png" alt="dr. Ferdi Iskandar" width="245" />
+<img src="https://i.postimg.cc/XqX2Y97b/official.png" alt="dr. Ferdi Iskandar" width="250" />
 
 <br />
 <br />
