@@ -1,19 +1,3 @@
-<!--
-  GitHub Profile README — Sentra Origin / Modern Motion Dossier
-  Profile repo target: ferdiiskandarse/ferdiiskandarse
-  Filename: README.md
-
-  Design principle preserved:
-  Deep systems dossier · clinical seriousness · human authority · audit-first architecture.
-
-  Modernization layer:
-  Controlled color spectrum · GitHub-safe SVG motion · dynamic profile surfaces · clean visual hierarchy.
--->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=SENTRA%20%2F%2F%20THE%20ORIGIN&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Clinical%20AI%20Architecture%20%C2%B7%20Human%20Judgment%20First%20%C2%B7%20Built%20from%20Indonesia&descSize=15&descAlignY=61&animation=fadeIn&color=gradient&customColorList=12,14,22,24,30" alt="Sentra Origin animated header" />
-</p>
-
 <table width="100%">
 <tr>
 <td width="34%" align="center" valign="middle">
@@ -705,10 +689,6 @@ Referral and routing surface with diagnosis endpoint concepts, semantic cache, m
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=gradient&customColorList=12,14,22,24,30" alt="Sentra footer wave" />
-</p>
 
 <p align="center">
   <b>Dedicated to Aldebaran, Aimee, Audrey, and Del — & the Indonesia Healthcare Ecosystem.</b><br />
