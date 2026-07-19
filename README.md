@@ -2,7 +2,7 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="https://i.postimg.cc/XqX2Y97b/official.png" alt="dr. Ferdi Iskandar" width="250" />
+<img src="https://i.postimg.cc/pTGtDymZ/boss-tshirt.png" alt="dr. Ferdi Iskandar" width="200" />
 
 <br />
 <br />
