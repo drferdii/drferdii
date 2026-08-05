@@ -2,49 +2,49 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="https://i.ibb.co.com/jZwfy0vB/drferdiikskandar.png" alt="dr. Ferdi Iskandar // Sentra Origin" width="210" />
+<img src="https://i.ibb.co.com/jZwfy0vB/drferdiikskandar.png" alt="dr. Ferdi Iskandar" width="200" />
 
 <br />
 <br />
 
 <a href="https://ferdiiskandar.com">
-  <img src="https://img.shields.io/badge/SENTRA%20SYNAPSE-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Official Sentra Portal" />
+  <img src="https://img.shields.io/badge/FERDIISKANDAR.COM-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Official website" />
 </a>
 <br />
-<img src="https://img.shields.io/badge/KEDIRI%20HQ-INDONESIA-DC2626?style=flat-square&logo=googlemaps&logoColor=white" alt="Kediri Indonesia" />
+<img src="https://img.shields.io/badge/KEDIRI%20INDONESIA-DC2626?style=flat-square" alt="Kediri Indonesia" />
 <img src="https://img.shields.io/badge/UTC%2B7-F97316?style=flat-square" alt="UTC+7" />
 
 <br />
 <br />
 
-<sub><b>dr. Ferdi Iskandar</b><br />Physician · Hospital CEO · Autonomous CVC & AI Architect</sub>
+<sub><b>dr. Ferdi Iskandar</b><br />Physician · Hospital CEO · Augmented Intelligence Assistance</sub>
 
 </td>
 <td width="66%" valign="middle">
 
-# SENTRA // NEURAL CLINICAL ENGINE & CVC ECOSYSTEM
+# SENTRA // THE ORIGIN
 
 <a href="https://ferdiiskandar.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&vCenter=true&width=730&height=50&lines=Technology+terbaik+adalah+yang+bekerja+dalam+diam.;The+machine+proposes.+The+clinician+decides.;Built+for+clinical+reality%2C+not+AI+theater.;FHIR+R5+%C2%B7+SATUSEHAT+%C2%B7+Deterministic+Safety+Gates." alt="Animated Sentra doctrine" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=33&duration=3200&pause=1000&color=F97316&vCenter=true&width=710&height=54&lines=Technology+terbaik+adalah+yang+bekerja+dalam+diam.;The+machine+proposes.+The+clinician+decides.;Built+for+clinical+workflows%2C+not+AI+theater.;From+fragmented+care+to+auditable+systems." alt="Animated Sentra doctrine" />
 </a>
 
-<sub><b>Operational Signal:</b> Kediri HQ, Indonesia · UTC+7 · 22 Systems Under Active Autonomous Orchestration</sub>
+<sub><b>Operational signal:</b> Kediri, Indonesia · UTC+7 · systems under active construction</sub>
 
 <br />
 <br />
 
-<b>Sentra Artificial Intelligence & Sentra Synapse CVC</b><br />
-Ekosistem penalaran klinis multi-agen, otomatisasi alur kerja rumah sakit, dan arsitektur modal ventura korporat. Memadukan kecerdasan buatan terdistribusi dengan batas tegas: <b>keputusan medis berada 100% di tangan praktisi kesehatan.</b>
+<b>Sentra Artificial Intelligence</b><br />
+Twenty-two systems. One architecture. One rule: <b>clinicians decide</b>.
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20PROD-16A34A?style=flat-square" alt="Status Active" />
-<img src="https://img.shields.io/badge/DOMAIN-CLINICAL%20AI%20%26%20CVC-2563EB?style=flat-square" alt="Clinical AI & CVC" />
-<img src="https://img.shields.io/badge/CORE-THE%20ABYSS%20MONOREPO-111827?style=flat-square" alt="The Abyss" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=flat-square" alt="Status Active" />
+<img src="https://img.shields.io/badge/DOMAIN-CLINICAL%20REASONING-2563EB?style=flat-square" alt="Clinical Reasoning" />
+<img src="https://img.shields.io/badge/ARCHITECTURE-THE%20ABYSS-111827?style=flat-square" alt="The Abyss" />
 <img src="https://img.shields.io/badge/ORIGIN-INDONESIA-DC2626?style=flat-square" alt="Origin Indonesia" />
-<img src="https://img.shields.io/badge/STANDARDS-FHIR%20R5%20%7C%20HL7-7C3AED?style=flat-square" alt="FHIR R5 HL7" />
-<img src="https://img.shields.io/badge/GOVERNANCE-ZERO%20TRUST%20PHI-F97316?style=flat-square" alt="Zero Trust PHI" />
+<img src="https://img.shields.io/badge/BOUNDARY-HUMAN%20AUTHORITY-F97316?style=flat-square" alt="Human Authority" />
+<img src="https://img.shields.io/badge/MODE-AUDIT%20FIRST-7C3AED?style=flat-square" alt="Audit First" />
 
 </td>
 </tr>
@@ -52,111 +52,106 @@ Ekosistem penalaran klinis multi-agen, otomatisasi alur kerja rumah sakit, dan a
 
 ---
 
-## ── 00 · ORIGIN SIGNAL & MISSION DIRECTIVE
+## ── 00 · ORIGIN SIGNAL
 
-> *"Sebagai dokter yang mengelola rumah sakit, saya melihat langsung retakan sistem yang tak terlihat: rujukan yang hilang di balik birokrasi, sinyal kegawatan laboratorium yang terlambat diekskalasi, serta fragmentasi data pasca-rawat inap.*
-> 
-> *Sentra dibangun bukan untuk menjadi hiasan teknologi, melainkan fondasi pertahanan klinis yang kokoh. Teruji langsung di ruang perawatan nyata, dapat diaudit secara medis, dan dirancang untuk melampaui tren sesaat."*
-> — **dr. Ferdi Iskandar**
+I'm a physician. By circumstance I ended up running a hospital. Then I started noticing where the system leaks — the referral that vanishes, the lab value nobody escalates, the patient who disappears after discharge.
 
-Sentra mengintegrasikan 22 modul sistem khusus ke dalam 3 lapisan arsitektur utama yang saling terhubung namun berdiri secara mandiri (*separable by design*):
+Sentra Artificial Intelligence is my answer. Not a startup pitch. A working ecosystem of clinical reasoning engines, workflow automation, and hospital infrastructure — built quietly, tested against real wards, and designed to outlast the hype cycle.
+
+Most of what runs here is not visible from the surface. That's intentional.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### LAYER I · NEURAL JUDGMENT
-Mesin pendukung keputusan klinis (CDSS), logika triase darurat, inferensi diferensial diagnosis, dan gerbang keselamatan medis (*safety gates*).
+### LAYER I · JUDGMENT
 
-<br />
+Differential reasoning, triage logic, guideline-aware workflows, and the safety gates that keep machine output subordinate to human decision.
 
-<img src="https://img.shields.io/badge/clinical--judgment-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/red--flag--detection-DC2626?style=flat-square" />
-<img src="https://img.shields.io/badge/icd--11--mapping-0891B2?style=flat-square" />
-
-</td>
-<td width="33%" valign="top">
-
-### LAYER II · HIGH-THROUGHPUT SUBSTRATE
-Fondasi teknis terdistribusi: multi-modal Agentic RAG, memori kontekstual presisten (*Med-Cognitive*), orchestrator alur kerja, dan enkripsi data PHI.
-
-<br />
-
-<img src="https://img.shields.io/badge/agentic--rag-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/persistent--memory-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/vector--mesh-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/clinical%20judgment-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/red%20flags-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/reviewer%20first-F97316?style=flat-square" />
 
 </td>
 <td width="33%" valign="top">
 
-### LAYER III · GROUND TRUTH & EMR
-Integrasi lansung dengan bed-side reality: EMR bridging, otomatisasi BPJS/SATUSEHAT, pemantauan ICU/Telemetry, dan ruang operasi (*OR Logistics*).
+### LAYER II · SUBSTRATE
 
-<br />
+RAG, persistent memory, orchestration, voice agents, autonomous workflows, observability. The machinery beneath the interface.
 
-<img src="https://img.shields.io/badge/emr--bridging-16A34A?style=flat-square" />
-<img src="https://img.shields.io/badge/satusehat--fhir-475569?style=flat-square" />
-<img src="https://img.shields.io/badge/ward--reality-B91C1C?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/memory-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/orchestration-0F172A?style=flat-square" />
+
+</td>
+<td width="33%" valign="top">
+
+### LAYER III · GROUND TRUTH
+
+Hospital dashboards, EMR bridges, coding audit, admission flow, bed management, telemedicine. Where theory meets a 2 AM emergency ward.
+
+<img src="https://img.shields.io/badge/EMR-16A34A?style=flat-square" />
+<img src="https://img.shields.io/badge/audit-475569?style=flat-square" />
+<img src="https://img.shields.io/badge/ward%20reality-B91C1C?style=flat-square" />
 
 </td>
 </tr>
 </table>
 
-**Tujuan Strategis:** Mengubah fragmentasi operasional kesehatan menjadi ekosistem digital cerdas, tersinkronisasi, dan terverifikasi di mana dokter dan manajemen medis dapat mempertanggungjawabkan lisensi serta keputusan profesional mereka.
+The objective is precise: **convert fragmented healthcare workflows into intelligent, auditable systems that a clinician would stake their license on.**
 
 ---
 
-## ── 01 · DOCTRINE & GOVERNANCE MATRIX (STANDAR 2026)
+## ── 01 · DOCTRINE
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                        SENTRA GOVERNANCE MANIFESTO                     │
-│  "AI dalam kedokteran tidak diciptakan untuk beratraksi visual.       │
-│   AI hadir untuk menopang, menjaga, dan memberikan jaminan keamanan.   │
-│   Berguna, tidak mendikte, transparan, dan aman — atau tidak dirilis."  │
-└────────────────────────────────────────────────────────────────────────┘
-```
+> **AI in medicine should not perform. It should hold. Useful, humble, explainable, safe — or it doesn't ship.**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Otoritas Tunggal Manusia (*Human Terminal Authority*)
-Setiap output dari mesin Sentra berhenti pada verifikasi praktisi medis. AI mengajukan draft, mengekstrak wawasan, dan menata data; dokter menandatangani dan mengambil keputusan penuh.
+### THE HUMAN HOLDS THE KEY
+
+Every system here terminates at a human reviewer. The machine proposes, structures, retrieves. It never signs. Final authority is not a feature — it's a boundary.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Deterministic Safety Gates
-Output klinis wajib melewati filter keamanan deterministik tanpa batas kompromi: pendeteksian gejala *red-flag*, pengecekan kontraindikasi obat, kalkulasi probabilitas ketidakpastian, dan ekskalasi otomatis.
+### GATED REASONING
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🇮🇩 Terkalibrasi untuk Lanskap Indonesia
-Dirancang khusus menghadapi dinamika pelayanan kesehatan lokal: integrasi kompleksitas klaim BPJS Kesehatan, regulasi SATUSEHAT Kementerian Kesehatan, serta tantangan jalur rujukan faskes berejenjang.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Arsitektur Terpisah (*Separable by Design*)
-Modul diagnostik, memori, scribe suara, hingga audit klaim dapat diuji, diperbarui, atau diganti secara independen tanpa mengganggu operasional sistem utama secara keseluruhan.
+No clinical output crosses the boundary without passing deterministic checks: red-flag detection, contraindication review, uncertainty handling, escalation triggers.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Solusi Berbasis Titik Masalah Nyata
-Tidak menciptakan platform fiktif. Setiap modul lahir dari observasi kendala nyata di lapangan perawatan, diselesaikan secara mendalam sebelum diproduksi massal.
+### BUILT FOR THIS TERRAIN
+
+Indonesian healthcare has its own physics: BPJS complexity, EMR friction, broken referral pathways, fragmented patient journeys. Systems here are shaped by that terrain, not imported over it.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Transparansi dan Auditabilitas Total
-Apabila suatu sistem kecerdasan buatan tidak dapat menampilkan sumber referensi RAG, batas penalaran, dan log auditnya, maka sistem tersebut melanggar batas etika medis Sentra.
+### SEPARABLE BY DESIGN
+
+Diagnosis, retrieval, memory, EMR automation, telemedicine, security — each module can be inspected, audited, and replaced without the others noticing. Independent now, unified later.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ONE PROBLEM, THEN DEPTH
+
+No fantasy platforms. Each system started as one specific pain, observed firsthand, solved narrowly. Expansion happens after proof, never before.
+
+</td>
+<td width="50%" valign="top">
+
+### NO MAGIC WITHOUT AUDIT
+
+If a system can't show its inputs, its reasoning boundaries, its confidence, and its escalation logic — it doesn't belong near a patient.
 
 </td>
 </tr>
@@ -164,10 +159,10 @@ Apabila suatu sistem kecerdasan buatan tidak dapat menampilkan sumber referensi 
 
 ---
 
-## ── 02 · SYSTEM CONSTELLATION (22 ENTERPRISE MODULES)
+## ── 02 · SYSTEM CONSTELLATION
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&height=35&lines=AADI+%E2%86%92+AUDREY+%E2%86%92+MED-COGNITIVE+%E2%86%92+MELINDA+SHIELD+%E2%86%92+CDOS+%E2%86%92+REFERRALINK;Ekosistem+Klinis+Terintegrasi+%7C+22+Sistem+Mandiri+%7C+Review-First+Outputs" alt="Sentra Constellation Flow" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=820&height=34&lines=diagnosis+%E2%86%92+triage+%E2%86%92+memory+%E2%86%92+EMR+%E2%86%92+audit+%E2%86%92+operations;one+clinical+ecosystem+%7C+separable+modules+%7C+review-first+outputs" alt="Animated Sentra system constellation" />
 </p>
 
 <table>
@@ -176,24 +171,20 @@ Apabila suatu sistem kecerdasan buatan tidak dapat menampilkan sumber referensi 
 
 ### 01 · AADI
 **Autonomous Artificial Diagnostic Intelligence**
-<br />
-Engine penalaran diferensial diagnosis berlapis dengan pemetaan ICD-11 otomatis, pemverifikasi algoritma panduan medis, dan guardrail keselamatan ketat.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Pendukung pertimbangan medis klinikus.`
+
+A layered diagnostic reasoning engine: structured differentials, safety checks, ICD mapping, hard clinician-review boundaries.
+
+`FUNCTION: diagnostic support. Never final diagnosis.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 02 · AUDREY
-**Voice-First Ambient Clinical Intelligence**
-<br />
-Sistem kecerdasan berbasis suara di ruang konsultasi. Mengidentifikasi percakapan medis, membuat narasi SOAP, dan menghilangkan friksi pengetikan EMR.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Pengenalan konteks medis secara real-time.`
+**Voice-First Clinical Intelligence**
+
+A real-time voice presence in the consultation room. Captures clinical context, surfaces structured insight, dissolves documentation friction.
+
+`FUNCTION: ambient assistance. Listens so the doctor can look at the patient.`
 
 </td>
 </tr>
@@ -201,51 +192,43 @@ Sistem kecerdasan berbasis suara di ruang konsultasi. Mengidentifikasi percakapa
 <td width="50%" valign="top">
 
 ### 03 · INTELLIGENCE DASHBOARD
-**Unified Command Surface for Hospital Operations**
-<br />
-Pusat kontrol terpadu untuk pemantauan pasien rawat inap, integrasi EMR, modul telemedicine, dan analytics kinerja klinis rumah sakit.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Single pane of glass operasional rumah sakit.`
+**Unified Clinical Operations Platform**
+
+One command surface for EMR workflows, ICD support, reporting, patient monitoring, telemedicine, and clinical intelligence.
+
+`FUNCTION: single pane over the entire operation.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 04 · ASISTE MEDIS (SENTRA ASSIST)
-**Clinical Workflow Browser Extension**
-<br />
-Ekstensi peramban cerdas yang berada langsung di atas EMR legacy. Menghubungkan ringkasan keputusan dan otomatisasi transfer data klinis secara aman.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Menghilangkan friksi entri data berulang.`
+**Clinical Workflow Automation Extension**
+
+A browser extension embedded inside the clinician's existing workflow: structured data transfer into EMR, decision-support surfaces where the work actually happens.
+
+`FUNCTION: erase repetitive EMR friction.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 05 · TELEMEDICINE ENGINE
-**Clinical-Grade Remote Consultation Protocol**
-<br />
-Infrastruktur konsultasi jarak jauh berbasis WebRTC berkecepatan tinggi dengan integrasi catatan klinis langsung, antrean digital, dan penjaminan mutu care.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Layanan telemedicine sesuai standar faskes.`
+### 05 · TELEMEDICINE
+**Remote Consultation Infrastructure**
+
+WebRTC consultation with clinical notes, scheduling, patient-room flow, and continuity — distance care that behaves like care, not like a video call.
+
+`FUNCTION: clinical-grade remote consultation.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 06 · REFERRALINK
-**Referral & Claim-Awareness Routing Engine**
-<br />
-Protokol navigasi rujukan antar faskes yang dirancang tanggap terhadap dinamika aturan BPJS, optimasi semantic cache, dan validasi kelayakan klaim.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/AUDIT_STAGE-F97316?style=flat-square" />
-<br />
-`FUNGSI: Jalur rujukan presisi dan efisien.`
+**Referral & Awareness-Intelligence Protocol**
+
+Referral routing and claim awareness engineered around regulatory fluctuation, BPJS complexity, semantic cache, contextual decision assistance.
+
+`STATUS: scaffold live. Awaiting final verification, refactor decision, and security audit before promotion.`
 
 </td>
 </tr>
@@ -253,25 +236,21 @@ Protokol navigasi rujukan antar faskes yang dirancang tanggap terhadap dinamika 
 <td width="50%" valign="top">
 
 ### 07 · MED-COGNITIVE
-**Persistent Multi-Agent Memory Infrastructure**
-<br />
-Arsitektur memori terdistribusi untuk agen kecerdasan buatan: retrival kontekstual berbasis vektor, retensi kronologi pasien, dan analisis tren kesehatan.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Memori Agen dengan konteks jangka panjang.`
+**Persistent Clinical Memory Layer**
+
+Memory architecture for agents: semantic retrieval, persistent context, structured recall across sessions.
+
+`FUNCTION: context-aware agents with zero hidden assumptions.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 08 · MELLY
-**Maternal & Pediatric Personal Companion Agent**
-<br />
-Agen pendamping personal pasien untuk perjalanan kehamilan, pasca-persalinan, hingga pemantauan tumbuh kembang anak secara proaktif.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Panduan kesehatan ibu dan anak berkesinambungan.`
+**Maternal & Pediatric Personal Virtual Agent**
+
+A personal agent that walks with the patient — pre-conception, pregnancy, postpartum, pediatric continuity.
+
+`FUNCTION: proactive companionship across the maternal-child journey.`
 
 </td>
 </tr>
@@ -279,25 +258,21 @@ Agen pendamping personal pasien untuk perjalanan kehamilan, pasca-persalinan, hi
 <td width="50%" valign="top">
 
 ### 09 · MELINDA DASHBOARD
-**Hospital Interoperability Data Hub**
-<br />
-Dasbor interoperabilitas data lintas unit untuk RSIA Melinda: menyatukan silo informasi laboratorium, farmasi, rawat inap, dan manajemen.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Integrasi data operasional terpusat.`
+**Hospital Interoperability Dashboard**
+
+Cross-unit interoperability for RSIA Melinda: fragmented departmental data made visible on one operational surface.
+
+`FUNCTION: collapse the silos.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 10 · MELINDA SHIELD
-**Predictive Cybersecurity & PHI Governance**
-<br />
-Arsitektur keamanan berlapis penjamin kerahasiaan data medis: analisis ancaman real-time, zero-trust tokenization, serta isolasi kebocoran data PII/PHI.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Perisai proteksi data kesehatan klinis.`
+**Predictive Cybersecurity Architecture**
+
+Layered defense over clinical data: monitoring, encryption, behavioral analysis, access governance, rapid containment.
+
+`FUNCTION: harden the perimeter of the clinical AI environment.`
 
 </td>
 </tr>
@@ -305,25 +280,21 @@ Arsitektur keamanan berlapis penjamin kerahasiaan data medis: analisis ancaman r
 <td width="50%" valign="top">
 
 ### 11 · AUTONOMOUS ADMISSION
-**Smart Patient Flow & Registration Engine**
-<br />
-Otomatisasi pemrosesan registrasi rujukan, ekstraksi dokumen identitas, validasi kepesertaan, serta pemangkasan waktu tunggu poliklinik.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Efisiensi jalur penerimaan pasien.`
+**Admission & Patient Journey Automation**
+
+Referral extraction, schedule validation, journey tracking. The queue becomes a flow.
+
+`FUNCTION: admission without the waiting-room entropy.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 12 · SMART TRIAGE
-**Early Risk Detection & Prioritization Engine**
-<br />
-Sistem ekstraksi gejala awal dan penilaian tingkat kegawatan pra-konsultasi untuk memberikan panduan tingkat urgensi kepada tim medis IGD.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Deteksi risiko darurat sebelum kontak langsung.`
+**Structured Early Risk Detection**
+
+Structured symptom capture and emergency flagging before the face-to-face — the clinician arrives already briefed.
+
+`FUNCTION: detect risk before it announces itself.`
 
 </td>
 </tr>
@@ -331,25 +302,21 @@ Sistem ekstraksi gejala awal dan penilaian tingkat kegawatan pra-konsultasi untu
 <td width="50%" valign="top">
 
 ### 13 · PROACTIVE CARE NAVIGATOR
-**Post-Discharge Continuity Framework**
-<br />
-Engine pemantauan pasien pasca-rawat inap: tindak lanjut pengobatan, jadwal kontrol ulang otomatis, serta pengingat vaksinasi.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Pemantauan kontinyu setelah kepulangan pasien.`
+**Post-Discharge Continuity Engine**
+
+Post-discharge monitoring, complication prevention, immunization reminders, continuity workflows.
+
+`FUNCTION: no patient vanishes after discharge.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 14 · AMBIENT SCRIBE
-**Voice-to-EMR Medical Transcription Engine**
-<br />
-Transformasi dialog verbal antara dokter dan pasien menjadi teks medis terstruktur yang dipetakan langsung ke variabel EMR secara otomatis.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Menjaga fokus dokter tetap pada pasien.`
+**Voice-to-EMR Documentation Engine**
+
+Consultation speech into structured medical notes, mapped straight into EMR fields.
+
+`FUNCTION: doctors watch patients, not cursors.`
 
 </td>
 </tr>
@@ -357,25 +324,21 @@ Transformasi dialog verbal antara dokter dan pasien menjadi teks medis terstrukt
 <td width="50%" valign="top">
 
 ### 15 · CRITICAL ALERT SYSTEM
-**Real-Time Deterioration & Escalation Alert**
-<br />
-Sistem pemantau sinyal vital dan nilai lab kritis yang memberikan peringatan instan ke tim medis terkait saat ditemukan anomali fisiologis.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Pengawasan perburukan kondisi tanpa henti.`
+**Early Warning & Escalation Layer**
+
+Constant watch over labs, telemetry, and high-risk signals — with a direct line to the right team.
+
+`FUNCTION: deterioration never goes unnoticed.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 16 · PREDICTIVE BED MANAGEMENT
-**Orchestrator Bed Turnover & Discharge Readiness**
-<br />
-Orkestrasi alur kepulangan pasien, pembersihan tempat tidur, kesiapan resep obat pulangan, dan manajemen ketersediaan kamar rawat.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Perputaran tempat tidur rumah sakit yang optimal.`
+**Discharge & Bed Readiness Orchestration**
+
+Discharge readiness, bed turnover, housekeeping, pharmacy, billing — one orchestration layer over patient flow.
+
+`FUNCTION: beds move at the speed of the hospital, not the paperwork.`
 
 </td>
 </tr>
@@ -383,25 +346,21 @@ Orkestrasi alur kepulangan pasien, pembersihan tempat tidur, kesiapan resep obat
 <td width="50%" valign="top">
 
 ### 17 · AI CODING AUDITOR
-**Clinical Coding & Claim Defense Suite**
-<br />
-Audit otomatis kesesuaian antara resume medis penunjang dengan kode ICD-10/ICD-9-CM untuk meminimalkan pending klaim BPJS Kesehatan.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Akurasi koding klaim berbasis bukti klinis.`
+**Clinical Coding & Claim Defense**
+
+Automated audit of coding consistency against documentation. Claims defended by cleaner clinical evidence.
+
+`FUNCTION: reduce dispute risk at the source.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 18 · OR ORCHESTRATOR
-**Operating Room Logistics & Readiness Suite**
-<br />
-Koordinasi logistik kamar operasi: pemantauan jadwal tindakan, kesiapan tim bedah, ketersediaan kantung darah, serta sterilisasi alat.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Manajemen presisi ruang operasi high-stakes.`
+**Operating Room Logistics Intelligence**
+
+Real-time coordination of priority cases, team readiness, blood product logistics, room allocation.
+
+`FUNCTION: high-stakes logistics, zero improvisation.`
 
 </td>
 </tr>
@@ -410,50 +369,42 @@ Koordinasi logistik kamar operasi: pemantauan jadwal tindakan, kesiapan tim beda
 
 ### 19 · POGS
 **Pregnancy Observation & Guidance System**
-<br />
-Sistem pengawasan kehamilan berisiko tinggi: pelacakan grafik usia gestasi, indikator preeklamsia, dan panduan antenatal terstruktur.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Perlindungan ganda bagi ibu dan janin.`
+
+Maternal-fetal monitoring, risk detection, structured antenatal context, escalation support.
+
+`FUNCTION: safer surveillance for two lives at once.`
 
 </td>
 <td width="50%" valign="top">
 
 ### 20 · CDOS
 **Clinical Decision Orchestration System**
-<br />
-Penerjemah panduan praktik klinis (PPK) menjadi alur kerja digital interaktif yang memandu langkah diagnostik dan terapi praktisi medis.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Digitalisasi panduan medis yang eksekutif.`
+
+Guidelines translated into living diagnostic and operational workflows — clinician oversight preserved end to end.
+
+`FUNCTION: guidelines that execute, not gather dust.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 21 · TRIAGE ALGORITHMIC ENGINE
-**Emergency Severity Indexing Engine**
-<br />
-Algoritma penentuan ESI (Emergency Severity Index) otomatis berdasarkan parameter tanda vital dan keluhan utama pasien saat tiba di IGD.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Skala prioritas medis berbasis risiko.`
+### 21 · TRIAGE
+**Algorithmic Emergency Prioritization**
+
+Severity-score prioritization, risk stratification, structured routing.
+
+`FUNCTION: priority by risk, not by noise.`
 
 </td>
 <td width="50%" valign="top">
 
-### 22 · CLINICAL FORECAST ENGINE
-**Readmission & Complication Prediction Layer**
-<br />
-Model prediktif untuk memetakan estimasi risiko readmisi 30 hari serta potensi komplikasi perawatan selama masa rawat inap.
-<br />
-`STATUS:` <img src="https://img.shields.io/badge/ONLINE-16A34A?style=flat-square" />
-<br />
-`FUNGSI: Perencanaan perawatan prediktif & preventif.`
+### 22 · PREDICTION
+**Clinical Risk Forecasting Engine**
+
+Deterioration, complications, readmission risk, trajectory shifts — estimated before they arrive.
+
+`FUNCTION: care that moves from reactive to anticipatory.`
 
 </td>
 </tr>
@@ -461,170 +412,128 @@ Model prediktif untuk memetakan estimasi risiko readmisi 30 hari serta potensi k
 
 ---
 
-## ── 03 · NEURAL PIPELINE & SIGNAL FLOW
-
-### 📊 End-to-End Clinical Data & AI Decision Flow (Mermaid Diagram)
-
-```mermaid
-flowchart TD
-    %% Node Styling Definitions
-    classDef inputStyle fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#FFFFFF;
-    classDef processStyle fill:#1E293B,stroke:#818CF8,stroke-width:2px,color:#FFFFFF;
-    classDef memoryStyle fill:#312E81,stroke:#C084FC,stroke-width:2px,color:#FFFFFF;
-    classDef safetyStyle fill:#7F1D1D,stroke:#F87171,stroke-width:3px,color:#FFFFFF;
-    classDef humanStyle fill:#064E3B,stroke:#34D399,stroke-width:3px,color:#FFFFFF;
-    classDef outputStyle fill:#14532D,stroke:#4ADE80,stroke-width:2px,color:#FFFFFF;
-
-    subgraph INGESTION["1. CLINICAL DATA INGESTION LAYER"]
-        A1["Voice Encounter (AUDREY)"] ::: inputStyle
-        A2["Vitals & Bio-Telemetry"] ::: inputStyle
-        A3["EMR / Lab Records (FHIR R5)"] ::: inputStyle
-    end
-
-    subgraph PROCESSING["2. NORMALIZATION & CONTEXT MESH"]
-        B1["PBN / PHI Masking & Anonymization"] ::: processStyle
-        B2["Medical Concept Normalization (SNOMED / ICD-11)"] ::: processStyle
-        B3["Med-Cognitive Vector Search & RAG"] ::: memoryStyle
-    end
-
-    subgraph REASONING["3. AGENTIC ORCHESTRATION ENGINE"]
-        C1["AADI Differential Reasoner"] ::: processStyle
-        C2["Guideline Compliance Engine (CDOS)"] ::: processStyle
-    end
-
-    subgraph SAFETY["4. DETERMINISTIC SAFETY GATEWAYS"]
-        D1{"Red Flag & Risk Check"} ::: safetyStyle
-        D2{"Drug Interaction & Contraindication"} ::: safetyStyle
-    end
-
-    subgraph VERIFICATION["5. CLINICAL VERIFICATION & ACTION"]
-        E1["Clinician Workbench Interface"] ::: humanStyle
-        E2{"Physician Electronic Signature"} ::: humanStyle
-    end
-
-    subgraph DISPATCH["6. SYSTEM EXECUTION & STORAGE"]
-        F1["EMR Auto-Populate & Discharge Plan"] ::: outputStyle
-        F2["SATUSEHAT Kemenkes Bridge"] ::: outputStyle
-        F3["BPJS Claim Pre-Audit Verification"] ::: outputStyle
-    end
-
-    %% Pipeline Connections
-    A1 & A2 & A3 --> B1
-    B1 --> B2 --> B3
-    B3 --> C1 & C2
-    C1 & C2 --> D1
-    D1 -- PASS --> D2
-    D1 -- CRITICAL RED FLAG --> E1
-    D2 -- PASS --> E1
-    E1 --> E2
-    E2 -- APPROVED --> F1 & F2 & F3
-    E2 -- REJECTED / MODIFIED --> B3
-```
-
-### 🛰️ Terminal Signal Architecture Flow
-
-```text
-  [CLINICAL DATA ENCOUNTER]
-              │
-              ▼
-  ┌──────────────────────┐   (PII/PHI Masking, SNOMED-CT Translation)
-  │ Normalization Mesh   │ ────────────────────────────────────────────────┐
-  └──────────────────────┘                                                 │
-              │                                                            ▼
-              ▼                                                   ┌─────────────────┐
-  ┌──────────────────────┐   (Semantic Search & Guidelines)       │  MED-COGNITIVE  │
-  │ Reasoning Substrate  │ ◄───────────────────────────────────── │ Vector Database │
-  └──────────────────────┘                                        └─────────────────┘
-              │
-              ▼
-  ┌──────────────────────┐   [CRITICAL HARDWARE BOUNDARY]
-  │ SAFETY GATEKEEPER    │ ─── (Deterministic Red-Flag Check / Drug Interaction)
-  └──────────────────────┘
-              │
-              ▼
-  ┌──────────────────────┐
-  │ PRACTITIONER REVIEW  │ ◄─── TERMINAL AUTHORITY GATE (Physician Approves/Rejects)
-  └──────────────────────┘
-              │
-              ▼
-  ┌──────────────────────┐
-  │ SATUSEHAT / EMR      │ ─── (Audit Trail Saved & FHIR Record Updated)
-  └──────────────────────┘
-```
-
----
-
-## ── 04 · ENGINE ROOM & TECH STACK INSTRUMENTATION
+## ── 03 · THE ENGINE ROOM
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI & REASONING STACK
-- **Frameworks:** PyTorch, LangGraph, vLLM
-- **Models:** Med-PaLM 2 / Llama-3-70B-Clinical
-- **RAG & Search:** Hybrid Dense/Sparse Retrieval
-- **Reasoning:** Tree-of-Thoughts (ToT) CDSS
-- **Voice Runtime:** Whisper-Large-v3 + Deepgram
+### REASONING
+
+- Differential diagnosis support
+- Deterministic safety gates
+- ICD & guideline mapping
+- Red-flag escalation
+- Confidence & uncertainty handling
 
 </td>
 <td width="33%" valign="top">
 
-### 🧠 RETRIEVAL & MEMORY MESH
-- **Vector DB:** Qdrant Enterprise / Pgvector
-- **Cache Engine:** Redis Enterprise (Semantic)
-- **Primary Data:** PostgreSQL 16 (Partitioned)
-- **Interoperability:** HAPI FHIR R5 Server
-- **Message Bus:** Apache Kafka / NATS JetStream
+### RETRIEVAL & MEMORY
+
+- Medical RAG
+- Document ingestion
+- Semantic search
+- Persistent agent memory
+- Local-first knowledge workflows
 
 </td>
 <td width="33%" valign="top">
 
-### 🔐 INFRASTRUCTURE & SECURITY
-- **Cloud/On-Prem:** Hybrid Kubernetes (K8s)
-- **Security:** HashiCorp Vault, Zero-Trust PHI
-- **API Gateway:** Kong Enterprise / Envoy
-- **Language:** TypeScript 5.5, Python 3.12, Rust
-- **Frontend:** Next.js 15 (App Router), Tailwind v4
+### OPERATIONS
+
+- EMR automation
+- Voice-to-EMR
+- Telemedicine flow
+- Dashboard intelligence
+- Hospital workflow orchestration
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,fastapi,postgres,prisma,mongodb,redis,kafka,docker,kubernetes,terraform,git&perline=15" alt="Sentra Instrumentation Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,fastapi,nodejs,postgres,prisma,mongodb,docker,kubernetes,terraform,vercel,git&perline=15" alt="Sentra instrumentation icons" />
 </p>
 
 ---
 
-## ── 05 · BUILD PROTOCOL & QUALITY GATES
+## ── 04 · SIGNAL PATH
+
+```text
+CLINICAL INPUT
+    │
+    ▼
+STRUCTURED CAPTURE
+    │   complaints · vitals · labs · history · documents · voice
+    ▼
+NORMALIZATION LAYER
+    │   terminology · units · ICD · FHIR-aware structures
+    ▼
+REASONING / RAG / MEMORY
+    │   clinical engine · retrieval evidence · persistent context
+    ▼
+SAFETY GATE  ◄── nothing passes ungated
+    │   red flags · uncertainty · contraindication · escalation boundary
+    ▼
+CLINICIAN-FACING OUTPUT
+    │   summary · differential support · triage signal · workflow action
+    ▼
+HUMAN REVIEW  ◄── terminal authority
+```
+
+The architecture is deliberately conservative. **The machine proposes, structures, retrieves, assists. The clinician decides. Always.**
+
+---
+
+## ── 05 · BUILD PROTOCOL
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 FRONTEND ARCHITECTURE
-React 19, Next.js 15, TailwindCSS v4. Antarmuka berstandar *quiet enterprise*, kontras tinggi untuk lingkungan penerangan rumah sakit, serta aksesibilitas tinggi untuk situasi darurat.
+### FRONTEND
+
+React, Next.js, Tailwind. Calm enterprise surfaces, strict hierarchy, readable data — interfaces that stay quiet under pressure.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ BACKEND SERVICES
-Microservices berbasis TypeScript & Python (FastAPI). Mengadopsi prinsip *strict type-checking*, validasi skema Zod/Pydantic, dan kontrak API auditable berbasis OpenAPI 3.1.
+### BACKEND
+
+TypeScript-first services, modular APIs, auditable contracts, clean package boundaries, explicit integration layers.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ VOICE & AMBIENT PROCESSING
-Modul pemrosesan audio real-time dengan latensi rendah (<200ms). Fitur *diarization* untuk memisahkan suara dokter dan pasien secara presisi.
+### AI RUNTIME
+
+RAG, orchestration, agent memory. Local-first where possible, model-agnostic by design, safety-aware at the output boundary.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔒 PRIVASI DATA MEDIS (PHI/PII)
-Protokol dekontaminasi data medis sebelum masuk ke LLM. Tidak ada rekaman mentah pasien yang disimpan tanpa enkripsi AES-256 dan sertifikat ketersediaan persetujuan (*informed consent*).
+### VOICE & DOCUMENTS
+
+Real-time clinical voice capture, voice-to-EMR, OCR ingestion, structured note generation. Automation is review-first — nothing writes itself into the record unseen.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### DATA & SECURITY
+
+Structured contracts, retrieval-ready documents, PHI/PII boundaries, least privilege, full audit trail. No unsafe logging. Ever.
+
+</td>
+<td width="50%" valign="top">
+
+### DEPLOYMENT
+
+Hard wall between prototype and production. Verification before promotion, rollback before courage, operational realism over demos.
 
 </td>
 </tr>
@@ -635,74 +544,78 @@ Protokol dekontaminasi data medis sebelum masuk ke LLM. Tidak ada rekaman mentah
 ## ── 06 · THE SENTRA OPERATING STANDARD
 
 ```text
-1. No magic without auditability.
-2. No automated diagnosis without explicit clinician sign-off.
-3. No code deployment without instantaneous rollback capability.
-4. No clinical data flow without zero-trust security boundaries.
-5. No expansion without solving one core clinical pain first.
+No magic without audit.
+No diagnosis without clinician review.
+No automation without rollback.
+No clinical data without security boundaries.
+No expansion without one solved problem first.
 ```
 
-Sebelum sebuah modul baru diberikan repositori tersendiri, tim pengembang wajib menjawab **5 Pertanyaan Interogasi Medis-Teknis**:
+Every system answers five questions before it earns a repository:
 
 <table>
 <tr>
-<th align="left">Pertanyaan Interogasi</th>
-<th align="left">Jawaban Wajib Minimal</th>
+<th align="left">Interrogation</th>
+<th align="left">Required answer</th>
 </tr>
 <tr>
-<td><b>1. Masalah klinis nyata apa yang diselesaikan?</b></td>
-<td>Satu friksi spesifik dalam alur perawatan. Bukan ambisi abstrak.</td>
+<td><b>What clinical problem does this solve?</b></td>
+<td>A specific workflow pain. Not an ambition.</td>
 </tr>
 <tr>
-<td><b>2. Siapa praktisi penanggung jawab akhir?</b></td>
-<td>Peran spesifik: Dokter Spesialis, Dokter Umum, Perawat IGD, atau Verifikator Klaim.</td>
+<td><b>Who is the human reviewer?</b></td>
+<td>Named role: doctor, nurse, admin, verifier, operator.</td>
 </tr>
 <tr>
-<td><b>3. Apa batasan non-cakupan (non-scope)?</b></td>
-<td>Pagar pembatas yang jelas untuk mencegah ekspansi sistem yang tidak aman.</td>
+<td><b>What is outside the scope?</b></td>
+<td>Non-scope is the fence against unsafe expansion.</td>
 </tr>
 <tr>
-<td><b>4. Apa titik kegagalan terburuk (failure mode)?</b></td>
-<td>Dokumentasi skenario penanganan terburuk sebelum sistem dirilis ke lapangan.</td>
+<td><b>What can fail?</b></td>
+<td>Failure modes documented before deployment, not after.</td>
 </tr>
 <tr>
-<td><b>5. Bagaimana validasi klinis dilakukan?</b></td>
-<td>Uji coba berbasis skenario kasus historis dan pengujian unit deterministik.</td>
+<td><b>How is it verified?</b></td>
+<td>Build, typecheck, test, audit — clinical review where lives are involved.</td>
 </tr>
 </table>
 
 ---
 
-## ── 07 · REPOSITORY ECOSYSTEM & MONOREPO ARCHITECTURE
+## ── 07 · SURFACE REPOSITORIES
 
-Dokumentasi yang Anda lihat di permukaan ini terhubung langsung ke struktur repositori utama di dalam **The Abyss Monorepo**:
+What's visible here is the surface layer. The depth lives in The Abyss.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 THE ABYSS (`sentra/the-abyss`)
-Repositori monorepo inti. Berisi seluruh *shared packages*, engine RAG klinis, arsitektur memori *Med-Cognitive*, pustaka komponen UI, serta adapter SATUSEHAT FHIR.
+### THE ABYSS
+
+The core monorepo. Shared packages, healthcare apps, RAG engines, governance surfaces, orchestration tools, clinical infrastructure. Everything above eventually descends into it.
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ INTELLIGENCEBOARD (`sentra/intelligence-board`)
-Platform dasbor operasional dan komando klinis untuk RSIA Melinda & jaringan mitra Sentra Synapse CVC.
+### INTELLIGENCEBOARD
+
+Clinical dashboard and operational command surface: CDSS, telemedicine, EMR bridge workflows, trajectory analytics, reporting.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 SENTRA ASSIST (`sentra/sentra-assist`)
-Ekstensi peramban perantara EMR untuk deteksi kegawatan darurat dan pencatatan riwayat medis terstruktur.
+### SENTRA ASSIST
+
+Clinical browser-assistance surface — emergency detection, diagnosis support, structured workflow automation, side-panel intelligence.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 REFERRALINK (`sentra/referralink`)
-Sistem navigasi rujukan klinis dan kecerdasan otomatisasi klaim BPJS Kesehatan.
+### REFERRALINK
+
+Referral and routing surface with diagnosis endpoint concepts, semantic cache, memory-service helpers.
 
 </td>
 </tr>
@@ -710,26 +623,29 @@ Sistem navigasi rujukan klinis dan kecerdasan otomatisasi klaim BPJS Kesehatan.
 
 ---
 
-## ── STRATEGIC COLLABORATORS & INSTITUTIONAL PARTNERS
+## ── OFFICIAL SPONSOR
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-  <img src="https://i.postimg.cc/8kJKKTrr/rsiamelinda.avif" alt="RSIA Melinda DHAI" width="170" />
+  <img src="https://i.postimg.cc/8kJKKTrr/rsiamelinda.avif" alt="RSIA Melinda DHAI" width="160" />
   <br /><br />
   <b>RSIA Melinda DHAI</b>
   <br />
   <sub>
-    Mitra strategis pelayanan kesehatan ibu dan anak. Tempat pengujian utama untuk kecerdasan klinis terapan, pengawasan antenatal (POGS), dan integrasi operasional rumah sakit.
+    Strategic healthcare collaboration and institutional support in the development
+    of applied clinical intelligence systems, operational interoperability, and
+    hospital-centered AI workflows.
   </sub>
 </td>
 <td width="50%" align="center" valign="top">
-  <img src="https://i.postimg.cc/gkh7JGz2/sidelab-logo2.png" alt="MedLab" width="170" />
+  <img src="https://i.postimg.cc/gkh7JGz2/sidelab-logo2.png" alt="MedLab" width="160" />
   <br /><br />
-  <b>MedLab Innovations</b>
+  <b>MedLab</b>
   <br />
   <sub>
-    Pusat riset dan inkubasi diagnostik modern yang mendukung pengembangan laboratorium cerdas, analisis biomarker, dan otomatisasi alur kerja kesehatan.
+    Supporting ecosystem for medical and diagnostic innovation, aligned with
+    healthcare workflow modernization, data intelligence, and practical AI deployment.
   </sub>
 </td>
 </tr>
@@ -737,7 +653,7 @@ Sistem navigasi rujukan klinis dan kecerdasan otomatisasi klaim BPJS Kesehatan.
 
 ---
 
-## ── OPEN COMMUNICATION CHANNELS
+## ── OPEN CHANNEL
 
 <p align="center">
   <a href="https://discord.gg/1511829076313374745"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -752,8 +668,30 @@ Sistem navigasi rujukan klinis dan kecerdasan otomatisasi klaim BPJS Kesehatan.
 
 ---
 
+## ── INSTRUMENTATION
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+---
+
 <p align="center">
   <b>Dedicated to Aldebaran, Aimee, Audrey, and Del — & the Indonesia Healthcare Ecosystem.</b><br />
-  <sub>Sentra Artificial Intelligence & Sentra Synapse CVC · Built in the depth, deployed at the bedside.</sub><br />
-  <sub><code>// surface is documentation. depth is running.</code></sub>
+  <sub>Sentra Artificial Intelligence · Built in the depth, deployed at the bedside.</sub><br />
+  <sub><code>// the surface is documentation. the depth is running.</code></sub>
 </p>
