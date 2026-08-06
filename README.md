@@ -2,7 +2,7 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="https://i.ibb.co.com/jZwfy0vB/drferdiikskandar.png" alt="dr. Ferdi Iskandar" width="200" />
+<img src="https://i.ibb.co.com/jZwfy0vB/drferdiikskandar.png" alt="dr. Ferdi Iskandar" width="150" />
 
 <br />
 <br />
