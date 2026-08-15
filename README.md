@@ -1101,16 +1101,16 @@ FINANCE MANAGEMENT"]
   <img src="https://img.shields.io/badge/ROLE-EDITOR-5B8CFF?style=flat-square" alt="Editor" />
   <img src="https://img.shields.io/badge/USE-DAILY%20DRIVER-22D3EE?style=flat-square" alt="Daily Driver" /><br />
   <b>Cursor</b><br />
-  <sub>AI-first code editor for repo-aware editing, fast iteration, and day-to-day agentic development workflows.</sub><br />
-  <sub><a href="https://cursor.com/">cursor.com ↗</a></sub>
+  <small>AI-first code editor for repo-aware editing, fast iteration, and day-to-day agentic development workflows.</small><br />
+  <small><a href="https://cursor.com/">cursor.com ↗</a></small>
 </td>
 <td width="50%" valign="top">
   <a href="https://www.antigravity.google/"><img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" /></a><br />
   <img src="https://img.shields.io/badge/ROLE-AGENT%20PLATFORM-8B5CF6?style=flat-square" alt="Agent Platform" />
   <img src="https://img.shields.io/badge/USE-ORCHESTRATION-14B8A6?style=flat-square" alt="Orchestration" /><br />
   <b>Google Antigravity</b><br />
-  <sub>Agent-first development platform for orchestrating multiple agents, artifacts, and verification flows across IDE, CLI, and SDK surfaces.</sub><br />
-  <sub><a href="https://www.antigravity.google/">antigravity.google ↗</a></sub>
+  <small>Agent-first development platform for orchestrating multiple agents, artifacts, and verification flows across IDE, CLI, and SDK surfaces.</small><br />
+  <small><a href="https://www.antigravity.google/">antigravity.google ↗</a></small>
 </td>
 </tr>
 <tr>
@@ -1119,16 +1119,16 @@ FINANCE MANAGEMENT"]
   <img src="https://img.shields.io/badge/ROLE-CODING%20AGENT-8B5CF6?style=flat-square" alt="Coding Agent" />
   <img src="https://img.shields.io/badge/USE-DEEP%20REASONING-F59E0B?style=flat-square" alt="Deep Reasoning" /><br />
   <b>Anthropic · Claude Code</b><br />
-  <sub>Terminal- and IDE-native coding agent for deep reasoning, codebase analysis, implementation, and verification-heavy engineering tasks.</sub><br />
-  <sub><a href="https://claude.com/product/claude-code">claude.com/product/claude-code ↗</a></sub>
+  <small>Terminal- and IDE-native coding agent for deep reasoning, codebase analysis, implementation, and verification-heavy engineering tasks.</small><br />
+  <small><a href="https://claude.com/product/claude-code">claude.com/product/claude-code ↗</a></small>
 </td>
 <td width="50%" valign="top">
   <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI%20Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /></a><br />
   <img src="https://img.shields.io/badge/ROLE-SOFTWARE%20AGENT-5B8CFF?style=flat-square" alt="Software Agent" />
   <img src="https://img.shields.io/badge/USE-TASK%20EXECUTION-14B8A6?style=flat-square" alt="Task Execution" /><br />
   <b>OpenAI · Codex</b><br />
-  <sub>Software-engineering agent for structured task execution, refactors, reviews, and background coding work across projects.</sub><br />
-  <sub><a href="https://openai.com/codex/">openai.com/codex ↗</a></sub>
+  <small>Software-engineering agent for structured task execution, refactors, reviews, and background coding work across projects.</small><br />
+  <small><a href="https://openai.com/codex/">openai.com/codex ↗</a></small>
 </td>
 </tr>
 <tr>
@@ -1137,16 +1137,16 @@ FINANCE MANAGEMENT"]
   <img src="https://img.shields.io/badge/ROLE-MODEL%20ROUTER-8B5CF6?style=flat-square" alt="Model Router" />
   <img src="https://img.shields.io/badge/USE-MULTI--PROVIDER-64748B?style=flat-square" alt="Multi Provider" /><br />
   <b>OpenRouter</b><br />
-  <sub>Unified routing layer providing one consistent API surface across multiple frontier and open-model providers.</sub><br />
-  <sub><a href="https://openrouter.ai/">openrouter.ai ↗</a></sub>
+  <small>Unified routing layer providing one consistent API surface across multiple frontier and open-model providers.</small><br />
+  <small><a href="https://openrouter.ai/">openrouter.ai ↗</a></small>
 </td>
 <td width="50%" valign="top">
   <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Google%20AI%20Environment-34A853?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google AI Environment" /></a><br />
   <img src="https://img.shields.io/badge/ROLE-MODEL%20ENVIRONMENT-22D3EE?style=flat-square" alt="Model Environment" />
   <img src="https://img.shields.io/badge/USE-GEMINI%20ACCESS-5B8CFF?style=flat-square" alt="Gemini Access" /><br />
   <b>Google AI Environment</b><br />
-  <sub>Gemini and Google AI developer environment for model access, experimentation, and broader agentic tooling.</sub><br />
-  <sub><a href="https://ai.google.dev/">ai.google.dev ↗</a></sub>
+  <small>Gemini and Google AI developer environment for model access, experimentation, and broader agentic tooling.</small><br />
+  <small><a href="https://ai.google.dev/">ai.google.dev ↗</a></small>
 </td>
 </tr>
 <tr>
@@ -1155,16 +1155,16 @@ FINANCE MANAGEMENT"]
   <img src="https://img.shields.io/badge/ROLE-METHOD-64748B?style=flat-square" alt="Method" />
   <img src="https://img.shields.io/badge/USE-SHORT%20LOOPS-F59E0B?style=flat-square" alt="Short Loops" /><br />
   <b>Bullet Coding</b><br />
-  <sub>Constraint-driven coding discipline centered on concise execution loops, bounded scope, explicit prompts, and fast ship-first iteration.</sub><br />
-  <sub><a href="https://www.codewithbullet.com/">codewithbullet.com ↗</a></sub>
+  <small>Constraint-driven coding discipline centered on concise execution loops, bounded scope, explicit prompts, and fast ship-first iteration.</small><br />
+  <small><a href="https://www.codewithbullet.com/">codewithbullet.com ↗</a></small>
 </td>
 <td width="50%" valign="top">
   <a href="https://grok.com/"><img src="https://img.shields.io/badge/Grok-111827?style=for-the-badge&logo=x&logoColor=white" alt="Grok" /></a><br />
   <img src="https://img.shields.io/badge/ROLE-REASONING%20MODEL-8B5CF6?style=flat-square" alt="Reasoning Model" />
   <img src="https://img.shields.io/badge/USE-ALT%20PERSPECTIVE-EC4899?style=flat-square" alt="Alt Perspective" /><br />
   <b>Grok</b><br />
-  <sub>Additional frontier reasoning layer for fast ideation, synthesis, and alternate model perspective.</sub><br />
-  <sub><a href="https://grok.com/">grok.com ↗</a></sub>
+  <small>Additional frontier reasoning layer for fast ideation, synthesis, and alternate model perspective.</small><br />
+  <small><a href="https://grok.com/">grok.com ↗</a></small>
 </td>
 </tr>
 <tr>
@@ -1173,8 +1173,8 @@ FINANCE MANAGEMENT"]
   <img src="https://img.shields.io/badge/ROLE-AUXILIARY%20PLATFORM-22D3EE?style=flat-square" alt="Auxiliary Platform" />
   <img src="https://img.shields.io/badge/USE-WORKFLOW%20SUPPORT-14B8A6?style=flat-square" alt="Workflow Support" /><br />
   <b>Space AI</b><br />
-  <sub>AI-native platform used as an auxiliary experimentation surface for automated content, workflow support, and adjacent operational exploration.</sub><br />
-  <sub><a href="https://www.spaceai.so/">spaceai.so ↗</a></sub>
+  <small>AI-native platform used as an auxiliary experimentation surface for automated content, workflow support, and adjacent operational exploration.</small><br />
+  <small><a href="https://www.spaceai.so/">spaceai.so ↗</a></small>
 </td>
 <td width="50%" valign="top">
   <img src="https://img.shields.io/badge/STACK%20POSTURE-AUDIT--FIRST-0D1117?style=for-the-badge&logo=shield&logoColor=22D3EE" alt="Stack Posture" /><br />
@@ -1183,7 +1183,7 @@ FINANCE MANAGEMENT"]
   <img src="https://img.shields.io/badge/ROUTING-64748B?style=flat-square" alt="Routing" />
   <img src="https://img.shields.io/badge/VERIFICATION-14B8A6?style=flat-square" alt="Verification" /><br />
   <b><code>STACK POSTURE</code></b><br />
-  <sub>Model-agnostic where useful, agent-first by design, audit-first in operation, and always governed by terminal human authority.</sub>
+  <small>Model-agnostic where useful, agent-first by design, audit-first in operation, and always governed by terminal human authority.</small>
 </td>
 </tr>
 </table>
@@ -1191,7 +1191,7 @@ FINANCE MANAGEMENT"]
 
 ### `13 / INSTRUMENTATION`
 
-<sub><code>ACTUAL TECHNOLOGY SURFACE · 10 ENGINEERING PILLARS · MONOREPO ABYSS</code></sub>
+<small><code>ACTUAL TECHNOLOGY SURFACE · 10 ENGINEERING PILLARS · MONOREPO ABYSS</code></small>
 
 <table width="100%">
 <tr>
@@ -1200,7 +1200,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/01-LANGUAGES%20%26%20RUNTIMES-5B8CFF?style=flat-square" alt="Languages & Runtimes" />
 
 <b><code>LANGUAGES & RUNTIMES</code></b><br />
-<sub>TypeScript 5.9 · Python 3.12+ · Node.js 22+ · PowerShell (pwsh) · SQL · Bash · HTML5 / CSS3</sub>
+<small>TypeScript 5.9 · Python 3.12+ · Node.js 22+ · PowerShell (pwsh) · SQL · Bash · HTML5 / CSS3</small>
 
 </td>
 <td width="50%" valign="top">
@@ -1208,7 +1208,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/02-FRONTEND%20%26%20UI%20ENGINE-22D3EE?style=flat-square" alt="Frontend & UI Engine" />
 
 <b><code>FRONTEND & UI ENGINE</code></b><br />
-<sub>Next.js (App Router) · React 18/19 · Vue 3 · Vite · Tailwind CSS · Framer Motion · Three.js (SentraVerse) · Radix UI · Sentra Design Tokens (OKLCH) · Sentra UI · Lucide · Recharts · ApexCharts · WXT (WebExtension) · Storybook · TanStack Query · Zustand</sub>
+<small>Next.js (App Router) · React 18/19 · Vue 3 · Vite · Tailwind CSS · Framer Motion · Three.js (SentraVerse) · Radix UI · Sentra Design Tokens (OKLCH) · Sentra UI · Lucide · Recharts · ApexCharts · WXT (WebExtension) · Storybook · TanStack Query · Zustand</small>
 
 </td>
 </tr>
@@ -1218,7 +1218,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/03-BACKEND%20%26%20API-14B8A6?style=flat-square" alt="Backend & API" />
 
 <b><code>BACKEND & API</code></b><br />
-<sub>FastAPI · Uvicorn / Starlette · Express.js · Flask · Frappe Framework / ERPNext · Pydantic v2 · Zod</sub>
+<small>FastAPI · Uvicorn / Starlette · Express.js · Flask · Frappe Framework / ERPNext · Pydantic v2 · Zod</small>
 
 </td>
 <td width="50%" valign="top">
@@ -1226,7 +1226,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/04-AI%20%C2%B7%20ML%20%C2%B7%20NLP%20%C2%B7%20VISION-8B5CF6?style=flat-square" alt="AI ML NLP Vision" />
 
 <b><code>AI · ML · NLP · VISION</code></b><br />
-<sub>TensorFlow / Keras · PyTorch · Hugging Face Transformers · LangChain · LlamaIndex · OpenAI GPT-4o · Anthropic Claude · Google Gemini · Mistral AI · Tesseract.js / PyTesseract OCR · Model Context Protocol (MCP) · Assistant UI · Pandas · NumPy · BioPython · SpaCy</sub>
+<small>TensorFlow / Keras · PyTorch · Hugging Face Transformers · LangChain · LlamaIndex · OpenAI GPT-4o · Anthropic Claude · Google Gemini · Mistral AI · Tesseract.js / PyTesseract OCR · Model Context Protocol (MCP) · Assistant UI · Pandas · NumPy · BioPython · SpaCy</small>
 
 </td>
 </tr>
@@ -1236,7 +1236,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/05-DATABASE%20%26%20STORAGE-0EA5E9?style=flat-square" alt="Database & Storage" />
 
 <b><code>DATABASE & STORAGE</code></b><br />
-<sub>PostgreSQL 16+ · Prisma ORM · MongoDB & Motor · MariaDB · SQLite / LibSQL · Redis · SQLAlchemy & Alembic · Supabase · AWS S3 / Cloudflare R2 · XLSX Engine</sub>
+<small>PostgreSQL 16+ · Prisma ORM · MongoDB & Motor · MariaDB · SQLite / LibSQL · Redis · SQLAlchemy & Alembic · Supabase · AWS S3 / Cloudflare R2 · XLSX Engine</small>
 
 </td>
 <td width="50%" valign="top">
@@ -1244,7 +1244,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/06-DEVOPS%20%C2%B7%20CLOUD%20%C2%B7%20INFRA-F59E0B?style=flat-square" alt="DevOps Cloud Infra" />
 
 <b><code>DEVOPS · CLOUD · INFRA</code></b><br />
-<sub>Docker & Docker Compose · Kubernetes (K8s) · ArgoCD (GitOps) · Terraform (IaC) · Vercel · Cloudflare Workers / Sandbox · Nginx · Git · GitHub Actions · Dependabot</sub>
+<small>Docker & Docker Compose · Kubernetes (K8s) · ArgoCD (GitOps) · Terraform (IaC) · Vercel · Cloudflare Workers / Sandbox · Nginx · Git · GitHub Actions · Dependabot</small>
 
 </td>
 </tr>
@@ -1254,7 +1254,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/07-MONOREPO%20%26%20BUILD%20TOOLS-64748B?style=flat-square" alt="Monorepo & Build Tools" />
 
 <b><code>MONOREPO & BUILD TOOLS</code></b><br />
-<sub>Turborepo 2.9 · pnpm Workspaces 9.15 · Changesets · tsx & esbuild · Rollup · SWC</sub>
+<small>Turborepo 2.9 · pnpm Workspaces 9.15 · Changesets · tsx & esbuild · Rollup · SWC</small>
 
 </td>
 <td width="50%" valign="top">
@@ -1262,7 +1262,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/08-TESTING%20%26%20QA-10B981?style=flat-square" alt="Testing & QA" />
 
 <b><code>TESTING & QA</code></b><br />
-<sub>Vitest & Vitest UI · Playwright (E2E) · Jest · React Testing Library · Pytest · Supertest · Axe Core A11y</sub>
+<small>Vitest & Vitest UI · Playwright (E2E) · Jest · React Testing Library · Pytest · Supertest · Axe Core A11y</small>
 
 </td>
 </tr>
@@ -1272,7 +1272,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/09-SECURITY%20%26%20GOVERNANCE-EB5939?style=flat-square" alt="Security & Governance" />
 
 <b><code>SECURITY & GOVERNANCE</code></b><br />
-<sub>Husky 9 · lint-staged · ESLint 9 (Flat Config) · Prettier 3 · Stylelint 17 · CodeQL SAST · Indonesian PHI Gate Scanner · Secret Scan Gate · App Independence Validator · CRP Healthcheck</sub>
+<small>Husky 9 · lint-staged · ESLint 9 (Flat Config) · Prettier 3 · Stylelint 17 · CodeQL SAST · Indonesian PHI Gate Scanner · Secret Scan Gate · App Independence Validator · CRP Healthcheck</small>
 
 </td>
 <td width="50%" valign="top">
@@ -1280,7 +1280,7 @@ FINANCE MANAGEMENT"]
 <img src="https://img.shields.io/badge/10-MEDICAL%20%26%20HARVESTER-EC4899?style=flat-square" alt="Medical & Harvester" />
 
 <b><code>MEDICAL & HARVESTER</code></b><br />
-<sub>JATS XML Parser Engine · SHA-256 Source Hasher · PDF Extraction Engine · PubMed / Europe PMC Harvester · Clinical Knowledge Registry</sub>
+<small>JATS XML Parser Engine · SHA-256 Source Hasher · PDF Extraction Engine · PubMed / Europe PMC Harvester · Clinical Knowledge Registry</small>
 
 </td>
 </tr>
