@@ -53,11 +53,17 @@ Twenty-two systems. One foundation. One governing boundary: <b>human authority</
 
 ### `01 / ORIGIN SIGNAL`
 
-I'm a physician. By circumstance I ended up running a hospital. Then I started noticing where the system leaks — the referral that vanishes, the lab value nobody escalates, the patient who disappears after discharge.
+**Sentra** is built to make complex workflows feel simpler, faster, and more approachable. The project focuses on giving developers a clean, practical foundation they can understand, extend, and integrate without unnecessary overhead.
 
-Sentra Artificial Intelligence is my answer. Not a startup pitch. A working ecosystem of clinical reasoning engines, workflow automation, and hospital infrastructure — built quietly, tested against real wards, and designed to outlast the hype cycle.
+Rather than treating clinical measurements as isolated snapshots, Sentra is built around the idea of clinical trajectory—understanding how a patient is changing over time, identifying meaningful signs of deterioration, and helping surface risk before it becomes a critical event. The goal is simple but important: support earlier intervention and help stop preventable patient deterioration.
 
-Most of what runs here is not visible from the surface. That's intentional.
+This repository contains the work behind Sentra as that idea is developed, tested, and refined into a practical clinical system.
+
+Whether you're exploring Sentra for the first time, contributing to the project, or using it as part of your own stack, the goal is straightforward: provide a reliable, developer-friendly experience while keeping the codebase open, maintainable, and easy to build on.
+
+This repository contains the source code, documentation, and everything you need to get started with Sentra. Contributions, ideas, and feedback are always welcome.
+
+-- https://ferdiiskandar.com
 
 <p align="center">
   <img src="https://img.shields.io/badge/SIGNAL-REFERRAL%20LEAKAGE-F43F5E?style=flat-square" alt="Referral leakage" />
