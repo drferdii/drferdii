@@ -17,7 +17,7 @@ Lead Architect
 </td>
 <td width="66%" valign="top">
 
-### `SENTRA / THE ORIGIN`
+### [`SENTRA / THE ORIGIN`](https://sentrahai.com/)
 
 <a href="https://ferdiiskandar.com">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=33&duration=3400&pause=1500&color=EB5939&vCenter=true&width=710&height=44&lines=Technology+terbaik+adalah+yang+bekerja+dalam+diam." alt="Technology terbaik adalah yang bekerja dalam diam." />
@@ -25,14 +25,14 @@ Lead Architect
 
 <b>Operational signal:</b> Kediri, Indonesia · UTC+7 · clinical intelligence under active construction
 
-<b>Sentra Artificial Intelligence</b><br />
+<a href="https://sentrahai.com/"><b>Sentra Artificial Intelligence</b></a><br />
 Twenty-two systems. One foundation. One governing boundary: <b>human authority</b>.
 
 <p>
   <a href="https://github.com/drferdii" title="GitHub"><img src="https://cdn.simpleicons.org/github/8B949E" width="22" height="22" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="https://ferdiiskandar.com" title="ferdiiskandar.com"><img src="https://cdn.simpleicons.org/vercel/8B949E" width="22" height="22" alt="ferdiiskandar.com" /></a>&nbsp;&nbsp;
-  <a href="https://sentrahai.com" title="Sentra Artificial Intelligence"><img src="https://cdn.simpleicons.org/googlechrome/8B949E" width="22" height="22" alt="Sentra Artificial Intelligence" /></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@drferdiiskandar" title="Medium"><img src="https://cdn.simpleicons.org/medium/8B949E" width="22" height="22" alt="Medium" /></a>&nbsp;&nbsp;
+        <a href="https://sentrahai.com/" title="Sentra Artificial Intelligence"><img src="https://cdn.simpleicons.org/googlechrome/8B949E" width="22" height="22" alt="Sentra Artificial Intelligence" /></a>&nbsp;&nbsp;
+      <a href="https://medium.com/@drferdiiskandar" title="Medium"><img src="https://cdn.simpleicons.org/medium/8B949E" width="22" height="22" alt="Medium" /></a>&nbsp;&nbsp;
   <a href="https://orcid.org/0009-0003-3788-1307" title="ORCID"><img src="https://cdn.simpleicons.org/orcid/8B949E" width="22" height="22" alt="ORCID" /></a>&nbsp;&nbsp;
   <a href="https://x.com/ClaudesyI81047" title="X"><img src="https://cdn.simpleicons.org/x/8B949E" width="22" height="22" alt="X" /></a>&nbsp;&nbsp;
   <a href="https://substack.com/@drferdiiskandar" title="Substack"><img src="https://cdn.simpleicons.org/substack/8B949E" width="22" height="22" alt="Substack" /></a>&nbsp;&nbsp;
@@ -53,15 +53,15 @@ Twenty-two systems. One foundation. One governing boundary: <b>human authority</
 
 ### `01 / ORIGIN SIGNAL`
 
-**Sentra** is built to make complex workflows feel simpler, faster, and more approachable. The project focuses on giving developers a clean, practical foundation they can understand, extend, and integrate without unnecessary overhead.
+**[Sentra](https://sentrahai.com/)** is built to make complex workflows feel simpler, faster, and more approachable. The project focuses on giving developers a clean, practical foundation they can understand, extend, and integrate without unnecessary overhead.
 
-Rather than treating clinical measurements as isolated snapshots, Sentra is built around the idea of clinical trajectory—understanding how a patient is changing over time, identifying meaningful signs of deterioration, and helping surface risk before it becomes a critical event. The goal is simple but important: support earlier intervention and help stop preventable patient deterioration.
+Rather than treating clinical measurements as isolated snapshots, [Sentra](https://sentrahai.com/) is built around the idea of clinical trajectory—understanding how a patient is changing over time, identifying meaningful signs of deterioration, and helping surface risk before it becomes a critical event. The goal is simple but important: support earlier intervention and help stop preventable patient deterioration.
 
-This repository contains the work behind Sentra as that idea is developed, tested, and refined into a practical clinical system.
+This repository contains the work behind [Sentra](https://sentrahai.com/) as that idea is developed, tested, and refined into a practical clinical system.
 
-Whether you're exploring Sentra for the first time, contributing to the project, or using it as part of your own stack, the goal is straightforward: provide a reliable, developer-friendly experience while keeping the codebase open, maintainable, and easy to build on.
+Whether you're exploring [Sentra](https://sentrahai.com/) for the first time, contributing to the project, or using it as part of your own stack, the goal is straightforward: provide a reliable, developer-friendly experience while keeping the codebase open, maintainable, and easy to build on.
 
-This repository contains the source code, documentation, and everything you need to get started with Sentra. Contributions, ideas, and feedback are always welcome.
+This repository contains the source code, documentation, and everything you need to get started with [Sentra](https://sentrahai.com/). Contributions, ideas, and feedback are always welcome.
 
 -- https://ferdiiskandar.com
 
@@ -824,11 +824,11 @@ Every system answers five questions before it earns a repository:
 
 ### `08 / MONOREPO ABYSS · AGENT-FIRST FOUNDATION`
 
-**Monorepo Abyss is the foundational engineering substrate of Sentra Artificial Intelligence** — the canonical environment that unifies shared packages, clinical applications, typed contracts, RAG and memory systems, orchestration, governance, safety controls, and infrastructure.
+**Monorepo Abyss is the foundational engineering substrate of [Sentra Artificial Intelligence](https://sentrahai.com/)** — the canonical environment that unifies shared packages, clinical applications, typed contracts, RAG and memory systems, orchestration, governance, safety controls, and infrastructure.
 
 **An Agent-First Repository is the operating model applied to that foundation:** a human-governed software environment designed so AI agents can execute engineering work efficiently while deterministic controls constrain their authority, verify their output, and preserve human accountability.
 
-SAFRS — the **Sentra Agent-First Repository Standard** — formalizes how Monorepo Abyss operates under that model: **Human-Governed · Agent-Executed · Machine-Enforced**.
+SAFRS — the **[Sentra](https://sentrahai.com/) Agent-First Repository Standard** — formalizes how Monorepo Abyss operates under that model: **Human-Governed · Agent-Executed · Machine-Enforced**.
 
 <a href="https://github.com/drferdii/Monorepo-safrs"><b>↗ SAFRS reference implementation · drferdii/Monorepo-safrs</b></a>
 
@@ -932,7 +932,7 @@ flowchart TB
 
 <b><code>MONOREPO ABYSS // FOUNDATIONAL AGENT-FIRST REPOSITORY</code></b>
 
-The foundational engineering environment for Sentra Artificial Intelligence. Monorepo Abyss is the shared substrate from which Sentra systems are built: packages, healthcare applications, typed contracts, RAG and memory, orchestration, governance, safety controls, and clinical infrastructure — operated as an Agent-First Repository under deterministic verification and non-delegable human authority.
+The foundational engineering environment for [Sentra Artificial Intelligence](https://sentrahai.com/). Monorepo Abyss is the shared substrate from which [Sentra](https://sentrahai.com/) systems are built: packages, healthcare applications, typed contracts, RAG and memory, orchestration, governance, safety controls, and clinical infrastructure — operated as an Agent-First Repository under deterministic verification and non-delegable human authority.
 
 <a href="https://github.com/drferdii/Monorepo-safrs"><sub><b>SAFRS reference implementation ↗</b></sub></a>
 
@@ -1019,7 +1019,7 @@ FINANCE MANAGEMENT"]
 
 <img src="https://img.shields.io/badge/01-HEALTHCARE%20AI-22D3EE?style=flat-square" alt="Healthcare AI" />
 
-<b><code>SENTRA HEALTHCARE ARTIFICIAL INTELLIGENCE</code></b><br />
+<b><code><a href="https://sentrahai.com/">SENTRA HEALTHCARE ARTIFICIAL INTELLIGENCE</a></code></b><br />
 <sub>The clinical and health-systems division. Focused on software, intelligence surfaces, and workflow tools for care delivery — including CDSS, diagnostic support, telemedicine, EMR-adjacent tooling, hospital operations, and patient-journey orchestration.</sub>
 
 </td>
@@ -1027,7 +1027,7 @@ FINANCE MANAGEMENT"]
 
 <img src="https://img.shields.io/badge/02-ACADEMIC%20SOLUTIONS-8B5CF6?style=flat-square" alt="Academic Solutions" />
 
-<b><code>SENTRA ACADEMIC SOLUTIONS</code></b><br />
+<b><code><a href="https://sentrahai.com/">SENTRA ACADEMIC SOLUTIONS</a></code></b><br />
 <sub>The academic software division. Focused on building digital products for academic workflows — such as research tooling, publication systems, knowledge-management tools, education platforms, and institutional academic support software.</sub>
 
 </td>
@@ -1037,7 +1037,7 @@ FINANCE MANAGEMENT"]
 
 <img src="https://img.shields.io/badge/03-MITRA%20DESIGN-14B8A6?style=flat-square" alt="Mitra Design" />
 
-<b><code>SENTRA MITRA DESIGN</code></b><br />
+<b><code><a href="https://sentrahai.com/">SENTRA MITRA DESIGN</a></code></b><br />
 <sub>The design-and-build division. Focused on website design, application interface design, product presentation, and digital experience development for partners, clients, and ecosystem projects.</sub>
 
 </td>
@@ -1045,7 +1045,7 @@ FINANCE MANAGEMENT"]
 
 <img src="https://img.shields.io/badge/04-DIGITAL%20FINANCE%20MANAGEMENT-F59E0B?style=flat-square" alt="Digital Finance Management" />
 
-<b><code>SENTRA DIGITAL FINANCE MANAGEMENT</code></b><br />
+<b><code><a href="https://sentrahai.com/">SENTRA DIGITAL FINANCE MANAGEMENT</a></code></b><br />
 <sub>The finance and operational systems division. Focused on digital finance management, internal business operations, financial visibility, reporting, and future tooling for budgeting, administration, and management workflows.</sub>
 
 </td>
@@ -1081,6 +1081,7 @@ FINANCE MANAGEMENT"]
 </td>
 </tr>
 </table>
+
 ---
 
 ### `11 / OPEN CHANNEL`
@@ -1193,6 +1194,7 @@ FINANCE MANAGEMENT"]
 </td>
 </tr>
 </table>
+
 ---
 
 ### `13 / INSTRUMENTATION`
@@ -1291,6 +1293,7 @@ FINANCE MANAGEMENT"]
 </td>
 </tr>
 </table>
+
 ---
 
 <p align="center">
