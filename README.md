@@ -111,8 +111,8 @@ The objective is precise: convert fragmented healthcare workflows into intellige
 
 02 / DOCTRINE
 
-[!IMPORTANT]
-AI in medicine should not perform. It should hold. Useful, humble, explainable, safe — or it doesn't ship.
+> [!IMPORTANT]
+> AI in medicine should not perform. It should hold. Useful, humble, explainable, safe — or it doesn't ship.
 
 <table>
 <tr>
@@ -182,6 +182,7 @@ If a system can't show its inputs, its reasoning boundaries, its confidence, and
 <details open>
 <summary><b><code>LIVE TOPOLOGY // SYSTEM RELATION MAP</code></b></summary>
 
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false, "padding": 20}, "themeVariables": {"fontFamily": "monospace", "fontSize": "11px"}}}%%
 flowchart TB
   REASON["CLINICAL REASONING"]
@@ -268,6 +269,8 @@ flowchart TB
   class INTEL,MELINDA,ADMIT,BED,ORX surface;
   class TELE,REF,CARE shared;
   class SHIELD,ALERT,AUDIT authority;
+
+```
 
 </details>
 
@@ -593,6 +596,7 @@ Hospital workflow orchestration
 <details open>
 <summary><b><code>RUNTIME TOPOLOGY // CONTROL & DATA PLANE</code></b></summary>
 
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false, "padding": 20}, "themeVariables": {"fontFamily": "monospace", "fontSize": "12px"}}}%%
 flowchart TB
   HUMAN["CLINICIAN / OPERATOR"]
@@ -638,6 +642,8 @@ flowchart TB
   class DATA,DOCS shared;
   class OUT,OPS surface;
 
+```
+
 </details>
 
 <p align="center">
@@ -646,6 +652,7 @@ flowchart TB
 
 05 / SIGNAL PATH
 
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false, "padding": 20}, "themeVariables": {"fontFamily": "monospace", "fontSize": "11px"}}}%%
 flowchart TB
   HUMAN["  CLINICIAN  "]
@@ -677,6 +684,8 @@ flowchart TB
   class GATE,ESC control;
   class INPUT,NORM core;
   class OUTPUT surface;
+
+```
 
 The architecture is deliberately conservative. The machine proposes, structures, retrieves, assists. The clinician decides. Always.
 
@@ -736,6 +745,7 @@ Hard wall between prototype and production. Verification before promotion, rollb
 <details open>
 <summary><b><code>PROMOTION STATE // PROTOTYPE → PRODUCTION</code></b></summary>
 
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false, "padding": 20}, "themeVariables": {"fontFamily": "monospace", "fontSize": "12px"}}}%%
 flowchart TB
   PROTO["PROTOTYPE"]
@@ -766,6 +776,8 @@ flowchart TB
   class PROD surface;
   class ROLL agent;
 
+```
+
 </details>
 
 07 / THE SENTRA OPERATING STANDARD
@@ -776,8 +788,8 @@ No automation without rollback.
 No clinical data without security boundaries.
 No expansion without one solved problem first.
 
-[!CAUTION]
-Human authority is a terminal boundary. Any clinical path that cannot expose its inputs, uncertainty, failure mode, and escalation route is not promotion-ready.
+> [!CAUTION]
+> Human authority is a terminal boundary. Any clinical path that cannot expose its inputs, uncertainty, failure mode, and escalation route is not promotion-ready.
 
 Every system answers five questions before it earns a repository:
 
@@ -830,6 +842,7 @@ SAFRS — the Sentra Agent-First Repository Standard — formalizes how Monorepo
 <details open>
 <summary><b><code>MONOREPO ABYSS TOPOLOGY // AUTHORITY ↔ EXECUTION ↔ CONTROL</code></b></summary>
 
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false, "padding": 20}, "themeVariables": {"fontFamily": "monospace", "fontSize": "10px"}}}%%
 flowchart TB
   HUMAN["HUMAN AUTHORITY · L5"]
@@ -870,11 +883,14 @@ flowchart TB
   class PACK,MEM shared;
   class INTEL,ASSIST,REF surface;
 
+```
+
 </details>
 
 <details>
 <summary><b><code>SAFRS CONTROL STACK // SIX LAYERS</code></b></summary>
 
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false, "padding": 20}, "themeVariables": {"fontFamily": "monospace", "fontSize": "12px"}}}%%
 flowchart TB
   L0["L0 · TRUST BOUNDARY"]
@@ -903,6 +919,8 @@ flowchart TB
   class L0 core;
   class L2 shared;
   class L1 surface;
+
+```
 
 <sub><code>CONSTRAINT DESCENDS · AUTHORITY ASCENDS · CAPABILITY ≠ TRUST</code></sub>
 
@@ -960,17 +978,14 @@ Sentra Artificial Intelligence operates across four primary divisions — one he
 <details open>
 <summary><b><code>SENTRA DIVISIONAL MAP // BUSINESS SURFACES</code></b></summary>
 
+```mermaid
 %%{init: {"flowchart": {"htmlLabels": false, "padding": 20}, "themeVariables": {"fontFamily": "monospace", "fontSize": "11px"}}}%%
 flowchart TB
   SAI["SENTRA ARTIFICIAL INTELLIGENCE"]
-  SHAI["SENTRA HEALTHCARE
-ARTIFICIAL INTELLIGENCE"]
-  SAS["SENTRA ACADEMIC
-SOLUTIONS"]
-  SMD["SENTRA MITRA
-DESIGN"]
-  SDFM["SENTRA DIGITAL
-FINANCE MANAGEMENT"]
+  SHAI["SENTRA HEALTHCARE ARTIFICIAL INTELLIGENCE"]
+  SAS["SENTRA ACADEMIC SOLUTIONS"]
+  SMD["SENTRA MITRA DESIGN"]
+  SDFM["SENTRA DIGITAL FINANCE MANAGEMENT"]
 
   SAI -->|clinical systems| SHAI
   SAI -->|academic software| SAS
@@ -988,6 +1003,8 @@ FINANCE MANAGEMENT"]
   class SAS academic;
   class SMD design;
   class SDFM finance;
+
+```
 
 </details>
 
